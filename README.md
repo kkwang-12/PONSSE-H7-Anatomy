@@ -9,8 +9,9 @@
 ### 结构展示
 
 查看机头的 11 个主要总成，包括主机架、吊架与回转器、倾转架、上部防护罩、左右送料辊、打枝刀组、中央辊与测长组件、链锯总成。悬停或选择部件，可以展开机头并阅读对应说明。
-
+<img width="586" height="861" alt="4bd37c46431f71cc9a8994490b84647d" src="https://github.com/user-attachments/assets/e98a3a38-bbf6-4817-b2bd-ac8d7de5ee40" />
 ### 加工演示
+<img width="670" height="475" alt="801743b242ee62697db77aecd7c9a58c" src="https://github.com/user-attachments/assets/dba8ae9e-b020-49d6-8a3d-6113bbf42985" />
 
 以一根带枝条的倒木为对象，演示约 31 秒的完整加工流程：
 
