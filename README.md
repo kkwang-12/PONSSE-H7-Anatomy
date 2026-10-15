@@ -12,11 +12,8 @@
 <img width="586" height="861" alt="4bd37c46431f71cc9a8994490b84647d" src="https://github.com/user-attachments/assets/e98a3a38-bbf6-4817-b2bd-ac8d7de5ee40" />
 ### 加工演示
 <img width="670" height="475" alt="801743b242ee62697db77aecd7c9a58c" src="https://github.com/user-attachments/assets/dba8ae9e-b020-49d6-8a3d-6113bbf42985" />
-
-以一根带枝条的倒木为对象，演示约 31 秒的完整加工流程：
-
 **张开入位 → 夹紧 → 第一轮送料打枝 → 减速停车 → 第一段锯切 → 回锯分离 → 第二轮送料 → 第二段锯切与回锯 → 释放余料。**
-
+以一根带枝条的倒木为对象，演示约 31 秒的完整加工流程：
 动画重点表现三个关系：
 
 - 送料时，木材前进，辊轮与测长轮转动，枝条经过刀口后被去除。
