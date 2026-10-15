@@ -1,0 +1,8 @@
+eval: {"theme":"light","initial":0}
+shot shots/mono-mobile-light.png · readout "已组装 · 11 个总成"
+eval: {"scrollGestureIgnored":true}
+eval: undefined
+shot shots/mono-mobile-exploded-light.png · readout "已展开 · 11 个总成"
+eval: {"selected":"measure","overflow":false}
+eval: {"reducedMotion":true,"reset":0}
+console: clean

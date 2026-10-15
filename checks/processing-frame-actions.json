@@ -1,0 +1,5 @@
+[
+ ["eval","h7Demo.processing.setMode('processing');h7Demo.processing.seek(5);({state:h7Demo.processing.getState().stage,error:document.querySelector('#processing-canvas').getContext('webgl2').getError()})"],
+ ["shot","shots/processing-solid-dark.png",".h7",1],
+ ["shot","shots/processing-solid-close-dark.png","#stage",4,[280,140,400,440]]
+]

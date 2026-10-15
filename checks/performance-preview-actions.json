@@ -1,0 +1,13 @@
+[
+ ["eval","h7Demo.ready"],
+ ["eval","(()=>{if(h7Demo.renderer.type!=='canvas')throw new Error(JSON.stringify(h7Demo.renderer));return {...h7Demo.renderer,domNodes:document.querySelectorAll('*').length}})()"],
+ ["shot","shots/performance-assembled-dark.png",".h7",1],
+ ["eval","h7Demo.target(1)"],
+ ["until","h7Demo.state.progress===1",10000],
+ ["shot","shots/performance-exploded-dark.png",".h7",1],
+ ["eval","h7Demo.select('measure')"],
+ ["shot","shots/performance-selected-dark.png",".h7",1],
+ ["eval","h7Demo.select(null);h7Demo.target(0)"],
+ ["until","h7Demo.state.progress===0",10000],
+ ["shot","shots/performance-detail-dark.png","#stage",4,[280,80,350,570]]
+]

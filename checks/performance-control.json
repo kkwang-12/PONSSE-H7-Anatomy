@@ -1,0 +1,31 @@
+{
+  "environment": {
+    "browser": "Headless Edge",
+    "viewport": "1100x1250",
+    "deviceScaleFactor": 1
+  },
+  "runs": [
+    {
+      "mode": "idle-control",
+      "frames": 90,
+      "elapsedMs": 618.2,
+      "averageFps": 143.96635393076673,
+      "frameMedianMs": 6.900000000000091,
+      "frameP95Ms": 7,
+      "over33ms": 0,
+      "scriptMedianMs": 0,
+      "scriptP95Ms": 0,
+      "metrics": {
+        "LayoutCount": 0,
+        "RecalcStyleCount": 0,
+        "LayoutDuration": 0,
+        "RecalcStyleDuration": 0,
+        "DevToolsCommandDuration": 0.0004,
+        "ScriptDuration": 0.0074,
+        "V8CompileDuration": 0,
+        "TaskDuration": 0.0296,
+        "TaskOtherDuration": 0.0218
+      }
+    }
+  ]
+}

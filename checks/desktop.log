@@ -1,0 +1,13 @@
+eval: {"solids":665,"assemblies":11}
+shot shots/assembled.png · readout ""
+eval: {"progress":1,"text":"已展开 · 11 个总成","viewBox":"0 -10 1000 900"}
+shot shots/exploded.png · readout ""
+eval: {"selected":"feedR","title":"右送料辊总成","dimmed":570}
+shot shots/selected.png · readout ""
+shot shots/dark.png · readout ""
+eval: {"keyboardProgress":0.09976626792868505}
+eval: {"dialog":true,"images":[{"ok":true,"src":"assets/Ponsse%20H7.png"},{"ok":true,"src":"182197-11836048.webp"},{"ok":true,"src":"assets/e62792a0bbfb6c1c1547e91798c249dc.jpg"}]}
+shot shots/references.png · readout ""
+eval: {"playing":true,"progress":0.04602137176710687}
+eval: {"paused":true,"horizontalOverflow":false}
+console: clean

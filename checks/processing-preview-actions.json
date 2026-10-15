@@ -1,0 +1,18 @@
+[
+ ["eval","h7Demo.ready"],
+ ["click","[data-mode-button='processing']"],
+ ["eval","(()=>{const s=h7Demo.processing.getState();if(s.error)throw new Error(s.error);return {mode:s.mode,renderer:s.renderer}})()"],
+ ["shot","shots/process-00-place-dark.png",".h7",1],
+ ["eval","h7Demo.processing.seek(5)"],
+ ["shot","shots/process-01-grip-dark.png",".h7",1],
+ ["eval","h7Demo.processing.seek(8.4)"],
+ ["shot","shots/process-02-feed-dark.png",".h7",1],
+ ["eval","h7Demo.processing.seek(14.1)"],
+ ["shot","shots/process-03-cut-dark.png",".h7",1],
+ ["eval","h7Demo.processing.seek(16.1)"],
+ ["shot","shots/process-04-return-dark.png",".h7",1],
+ ["eval","h7Demo.processing.seek(25.8)"],
+ ["shot","shots/process-05-cut2-dark.png",".h7",1],
+ ["eval","h7Demo.processing.seek(31)"],
+ ["shot","shots/process-06-done-dark.png",".h7",1]
+]

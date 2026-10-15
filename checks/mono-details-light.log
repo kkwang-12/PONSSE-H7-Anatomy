@@ -1,0 +1,10 @@
+eval: undefined
+shot shots/mono-detail-assembled.png · readout "已组装 · 11 个总成"
+line ends: 0 of 0 ends on 0 lines float
+shot shots/mono-lines-assembled.png
+eval: undefined
+shot shots/mono-detail-exploded.png · readout "已展开 · 11 个总成"
+line ends: 0 of 0 ends on 0 lines float
+shot shots/mono-lines-exploded.png
+eval: {"viewBox":[40,20,920,840],"bounds":[220.05038452148438,94.24244689941406,531.4747314453125,642.175048828125],"overflow":false}
+console: clean

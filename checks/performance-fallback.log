@@ -1,0 +1,5 @@
+eval: {"type":"svg","reason":"Error: Simulated image decoding failure for fallback verification"}
+eval: {"type":"svg","reason":"Error: Simulated image decoding failure for fallback verification"}
+eval: undefined
+eval: {"fallbackExpanded":true,"selected":"saw"}
+console: clean

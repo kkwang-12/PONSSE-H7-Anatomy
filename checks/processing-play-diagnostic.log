@@ -1,0 +1,3 @@
+eval: undefined
+eval: {"time":31,"playing":false,"requested":false,"rate":1,"ended":true,"error":null,"hidden":false,"frames":4305,"bounds":{"x":175,"y":128.390625,"width":930,"height":688.875,"top":128.390625,"right":1105,"bottom":817.265625,"left":175}}
+console: clean

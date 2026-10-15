@@ -1,0 +1,29 @@
+visible surfaces · frame · 1013 faces
+visible surfaces · tilt · 557 faces
+visible surfaces · rotator · 680 faces
+visible surfaces · cover · 81 faces
+visible surfaces · feedL · 1851 faces
+visible surfaces · feedR · 1849 faces
+visible surfaces · knifeL · 554 faces
+visible surfaces · knifeR · 551 faces
+visible surfaces · lower · 1089 faces
+visible surfaces · measure · 2869 faces
+visible surfaces · saw · 1719 faces
+Checking 846 solid parts in 11 assemblies
+clearance: 0 problems
+clearance apart: 0 problems
+terminals: 0 ends not on a mount
+loose ends: 0
+screen folds: 0
+support: 0 unsupported solids · 0 hanging tubes · 0 sunk pairs
+depth order: 0 problems
+through in mid-flight: 0 pairs
+self-overlap: 0 chunks whose outline crosses itself on screen
+wobble: 0 smoothed profiles whose slope turns between its ends
+saddles off their host apart: 0
+stand-in shapes: 0 items whose recorded shape covers too little of what it draws
+crowding: 0 pairs where a bend or end touches another line on screen
+audit · 0 tubes · 846 solids · 11 items · 5 depth states · 54 overlaps · 19 order rules · 24.5 s
+audit passed
+Built index.html · 11 assemblies · 846 solid parts · 3683 KiB
+Visibility · 12813 mesh faces · 33359 exposed polygons · 0 interlocked assembly pairs

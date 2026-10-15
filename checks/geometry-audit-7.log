@@ -1,0 +1,22 @@
+visible surfaces · frame · 590 faces
+visible surfaces · tilt · 237 faces
+visible surfaces · rotator · 669 faces
+visible surfaces · cover · 214 faces
+visible surfaces · feedL · 1373 faces
+visible surfaces · feedR · 1371 faces
+visible surfaces · knifeL · 285 faces
+visible surfaces · knifeR · 282 faces
+visible surfaces · lower · 551 faces
+visible surfaces · measure · 2648 faces
+file:///D:/Ponsee%20Anatomy/src/visibility.mjs:117
+        if(pieces.length>20000)throw new Error('Excessive visibility fragments in '+id+' / '+items[f.item].name);
+                                     ^
+
+Error: Excessive visibility fragments in saw / saw.base carrier
+    at visibleClips (file:///D:/Ponsee%20Anatomy/src/visibility.mjs:117:38)
+    at file:///D:/Ponsee%20Anatomy/build.mjs:15:52
+    at ModuleJob.run (node:internal/modules/esm/module_job:439:25)
+    at async node:internal/modules/esm/loader:643:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)
+
+Node.js v24.19.0

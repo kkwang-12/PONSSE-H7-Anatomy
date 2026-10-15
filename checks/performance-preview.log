@@ -1,0 +1,10 @@
+eval: {"type":"canvas","assemblies":11,"texturePixels":1059994,"density":1,"prepareMs":1703.5}
+eval: {"type":"canvas","assemblies":11,"texturePixels":1059994,"density":1,"prepareMs":1703.5,"domNodes":48}
+shot shots/performance-assembled-dark.png · readout "已组装 · 11 个总成"
+eval: undefined
+shot shots/performance-exploded-dark.png · readout "已展开 · 11 个总成"
+eval: undefined
+shot shots/performance-selected-dark.png · readout "10 中央辊与测长组件"
+eval: undefined
+shot shots/performance-detail-dark.png · readout "已组装 · 11 个总成"
+console: clean

@@ -1,0 +1,17 @@
+[
+  ["eval", "h7Demo.target(0)"],
+  ["until", "h7Demo.state.progress===0"],
+  ["lines", "shots/lines-assembled.png", "#stage"],
+  ["shot", "shots/detail-assembled-light.png", "#stage", 4, [260, 30, 570, 540]],
+  ["click", "#theme"],
+  ["shot", "shots/detail-assembled-dark.png", "#stage", 4, [260, 30, 570, 540]],
+  ["lines", "shots/lines-assembled-dark.png", "#stage"],
+  ["click", "#explode"],
+  ["until", "h7Demo.state.progress===1"],
+  ["shot", "shots/detail-exploded-dark.png", "#stage", 4, [220, 10, 620, 580]],
+  ["lines", "shots/lines-exploded-dark.png", "#stage"],
+  ["click", "#theme"],
+  ["shot", "shots/detail-exploded-light.png", "#stage", 4, [220, 10, 620, 580]],
+  ["lines", "shots/lines-exploded.png", "#stage"],
+  ["eval", "(()=>{const r=document.querySelector('#machine').getBoundingClientRect();const v=document.querySelector('#machine').viewBox.baseVal;return {parts:document.querySelectorAll('.part').length,viewBox:[v.x,v.y,v.width,v.height],screen:[r.width,r.height]}})()"]
+]

@@ -1,0 +1,9 @@
+[
+ ["eval","h7Demo.ready"],
+ ["eval","(()=>{if(h7Demo.renderer.type!=='svg'||!document.querySelector('#machine'))throw new Error('no SVG fallback');return h7Demo.renderer})()"],
+ ["eval","h7Demo.target(1);h7Demo.select('saw')"],
+ ["until","h7Demo.state.progress===1",4000],
+ ["eval","(()=>{if(h7Demo.state.selected!=='saw')throw new Error('fallback selection');return {fallbackExpanded:true,selected:h7Demo.state.selected}})()"],
+ ["key","Escape","#stage"],
+ ["until","h7Demo.state.progress===0",4000]
+]

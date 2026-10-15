@@ -1,0 +1,16 @@
+[
+ ["eval","h7Demo.ready"],
+ ["eval","(()=>{if(h7Demo.renderer.type!=='canvas'||h7Demo.renderer.opaqueCorners)throw new Error(JSON.stringify(h7Demo.renderer));return h7Demo.renderer})()"],
+ ["shot","shots/performance-final-light.png",".h7",1],
+ ["eval","h7Demo.state.manualOpen=true;h7Demo.target(1)"],
+ ["until","h7Demo.state.progress===1",4000],
+ ["shot","shots/performance-final-light-apart.png",".h7",1],
+ ["eval","(()=>{const c=document.querySelector('#machine-canvas'),r=c.getBoundingClientRect();for(let y=4;y<r.height;y+=4)for(let x=4;x<r.width;x+=4){const clientX=r.left+x,clientY=r.top+y;if(h7Demo.hitTest(clientX,clientY)==='measure'){c.dispatchEvent(new PointerEvent('pointerdown',{pointerType:'touch',pointerId:77,clientX,clientY,bubbles:true}));c.dispatchEvent(new PointerEvent('pointerup',{pointerType:'touch',pointerId:77,clientX,clientY,bubbles:true}));if(h7Demo.state.selected!=='measure')throw new Error('touch hit failed');return {touchSelected:h7Demo.state.selected};}}throw new Error('no measurement hit area')})()"],
+ ["shot","shots/performance-final-light-detail.png","#stage",4,[290,260,330,360]],
+ ["eval","document.querySelector('main').style.width='600px'"],
+ ["wait",200],
+ ["eval","(()=>{const c=document.querySelector('#machine-canvas'),s=document.querySelector('#stage'),expected=Math.round(s.clientWidth*Math.min(devicePixelRatio,2));if(c.width!==expected)throw new Error('canvas resize: '+c.width+' vs '+expected);return {resize:true,width:c.width}})()"],
+ ["eval","document.querySelector('main').style.width='';h7Demo.select(null);h7Demo.state.manualOpen=false;h7Demo.target(0)"],
+ ["until","h7Demo.state.progress===0",4000],
+ ["eval","(()=>{if(h7Demo.state.frame)throw new Error('loop running at rest');if(document.documentElement.scrollWidth>innerWidth)throw new Error('horizontal overflow');return {resting:true,overflow:false}})()"]
+]

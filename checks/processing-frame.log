@@ -1,0 +1,4 @@
+eval: {"state":"feed1","error":0}
+shot shots/processing-solid-dark.png · readout "03 第一轮送料 · 5.0 / 31 s"
+shot shots/processing-solid-close-dark.png · readout "03 第一轮送料 · 5.0 / 31 s"
+console: clean

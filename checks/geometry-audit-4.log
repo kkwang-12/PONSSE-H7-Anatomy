@@ -1,0 +1,542 @@
+Checking 665 solid parts in 11 assemblies
+clearance: 0 problems
+clearance apart: 0 problems
+terminals: 0 ends not on a mount
+loose ends: 0
+screen folds: 0
+support: 0 unsupported solids · 0 hanging tubes · 0 sunk pairs
+depth order: 525 problems
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.lower foot (k 48.73) but drawn first   264.94 px² (31.13 px² the other way), up to 29.43 nearer, at 471.8,544.0
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.upper crossmember (k 93.37) but drawn first   382.25 px² (227.75 px² the other way), up to 8.01 nearer, at 460.8,321.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.middle bridge (k 55.80) but drawn first   258.38 px² (30.56 px² the other way), up to 29.46 nearer, at 475.5,408.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek (k 45.67) but drawn first   365.31 px² (166.19 px² the other way), up to 25.42 nearer, at 483.5,545.8
+  cycle  undefined  frame.cheek fastener (k 45.69) is in front of frame.lower knife mounting lug (k 48.75) but drawn first   0.63 px² (12.63 px² the other way), up to 0.67 nearer, at 453.8,532.8
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot (k 48.73) but drawn first   182.00 px² (12.75 px² the other way), up to 32.97 nearer, at 471.8,544.0
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   43.88 px² (141.63 px² the other way), up to 8.03 nearer, at 563.3,566.3
+  cycle  undefined  frame.sculpted cheek#2 (k 77.54) is in front of frame.upper crossmember (k 93.37) but drawn first   511.19 px² (54.38 px² the other way), up to 21.25 nearer, at 565.0,356.3
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   251.44 px² (351.00 px² the other way), up to 3.54 nearer, at 535.5,558.5
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot#2 (k 36.63) but drawn first   49.56 px² (51.75 px² the other way), up to 15.90 nearer, at 551.5,558.3
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife pedestal#2 (k 77.58) but drawn first   1.38 px² (216.75 px² the other way), up to 5.38 nearer, at 553.8,576.8
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   52.81 px² (209.19 px² the other way), up to 7.97 nearer, at 558.3,574.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   1.94 px² (98.38 px² the other way), up to 3.41 nearer, at 545.5,561.8
+  cycle  undefined  frame.spine rib (k -3.55) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,531.5
+  cycle  undefined  frame.spine rib#2 (k 11.71) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.63 px² the other way), up to 11.90 nearer, at 534.8,506.0
+  cycle  undefined  frame.spine rib#3 (k 17.43) is in front of frame.rear spine (k 54.74) but drawn first   17.38 px² (267.69 px² the other way), up to 11.89 nearer, at 534.8,481.3
+  cycle  undefined  frame.spine rib#4 (k 27.92) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,456.5
+  cycle  undefined  frame.spine rib#5 (k 38.41) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.88 px² the other way), up to 11.90 nearer, at 534.8,430.5
+  cycle  undefined  frame.spine rib#6 (k 48.90) is in front of frame.rear spine (k 54.74) but drawn first   17.44 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,405.5
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#7 (k 59.38) but drawn first   267.88 px² (17.88 px² the other way), up to 16.47 nearer, at 528.0,374.0
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#8 (k 69.87) but drawn first   268.63 px² (17.63 px² the other way), up to 16.47 nearer, at 527.5,348.8
+  cycle  undefined  frame.rear mounting plate (k 11.71) is in front of frame.spine rib#2 (k 11.71) but drawn first   0.31 px² (110.81 px² the other way), up to 2.29 nearer, at 538.0,501.5
+  cycle  undefined  frame.rear mounting plate#2 (k 21.38) is in front of frame.spine rib#4 (k 27.92) but drawn first   0.31 px² (303.13 px² the other way), up to 2.29 nearer, at 538.5,451.3
+  cycle  undefined  frame.rear mounting plate#3 (k 54.72) is in front of frame.spine rib#7 (k 59.38) but drawn first   0.31 px² (231.38 px² the other way), up to 2.30 nearer, at 538.5,375.8
+  cycle  undefined  tilt.pivot cap (k -40.43) is in front of tilt.tilt upright (k 11.67) but drawn first   25.50 px² (23.06 px² the other way), up to 12.99 nearer, at 480.0,496.8
+  cycle  undefined  tilt.pivot cap (k -40.43) is in front of tilt.lower cross tie (k 11.69) but drawn first   6.94 px² (6.75 px² the other way), up to 9.38 nearer, at 478.8,494.3
+  cycle  undefined  tilt.pivot cap#2 (k 2.56) is in front of tilt.lower cross tie (k 11.69) but drawn first   42.13 px² (5.19 px² the other way), up to 14.23 nearer, at 575.3,508.8
+  cycle  undefined  rotator.body band (k 76.41) is in front of rotator.rotator body (k 80.66) but drawn first   81.81 px² (86.88 px² the other way), up to 4.74 nearer, at 507.3,265.0
+  cycle  undefined  rotator.body band#2 (k 79.40) is in front of rotator.rotator body (k 80.66) but drawn first   81.19 px² (86.69 px² the other way), up to 4.74 nearer, at 507.3,259.8
+  cycle  undefined  rotator.rotator body (k 80.66) is in front of rotator.body band#3 (k 85.77) but drawn first   86.81 px² (82.31 px² the other way), up to 10.71 nearer, at 518.5,234.8
+  cycle  undefined  rotator.body band#2 (k 79.40) is in front of rotator.motor fin#6 (k 83.82) but drawn first   0.50 px² (2.63 px² the other way), up to 3.30 nearer, at 507.0,257.3
+  cycle  undefined  rotator.motor fin#11 (k 69.06) is in front of rotator.body band#2 (k 79.40) but drawn first   0.31 px² (0.50 px² the other way), up to 1.84 nearer, at 545.5,249.8
+  cycle  undefined  rotator.motor fin#12 (k 79.36) is in front of rotator.body band#2 (k 79.40) but drawn first   1.13 px² (0.25 px² the other way), up to 5.59 nearer, at 549.5,252.5
+  cycle  undefined  rotator.upper neck (k 89.27) is in front of rotator.suspension ear (k 92.73) but drawn first   2.13 px² (34.13 px² the other way), up to 2.64 nearer, at 523.0,227.5
+  cycle  undefined  rotator.upper neck (k 89.27) is in front of rotator.suspension ear#2 (k 101.48) but drawn first   1.94 px² (70.13 px² the other way), up to 2.58 nearer, at 532.0,230.0
+  cycle  undefined  rotator.suspension ear (k 92.73) is in front of rotator.top cross pin (k 98.83) but drawn first   75.81 px² (21.19 px² the other way), up to 7.47 nearer, at 520.3,204.0
+  cycle  undefined  rotator.top cross pin (k 98.83) is in front of rotator.suspension ear#2 (k 101.48) but drawn first   14.38 px² (77.56 px² the other way), up to 3.89 nearer, at 544.5,208.3
+  cycle  undefined  feedL.drive motor (k 63.11) is in front of feedL.swing arm (k 66.01) but drawn first   88.19 px² (401.06 px² the other way), up to 20.98 nearer, at 405.8,426.5
+  cycle  undefined  feedL.swing arm (k 66.01) is in front of feedL.motor end flange (k 67.38) but drawn first   9.06 px² (304.25 px² the other way), up to 4.81 nearer, at 401.8,446.3
+  cycle  undefined  feedL.actuator support (k 63.76) is in front of feedL.swing arm (k 66.01) but drawn first   30.38 px² (66.88 px² the other way), up to 13.51 nearer, at 405.8,426.5
+  cycle  undefined  feedL.rod (k 58.41) is in front of feedL.drive motor (k 63.11) but drawn first   7.81 px² (8.19 px² the other way), up to 12.68 nearer, at 399.0,417.5
+  cycle  undefined  feedL.clevis pin#2 (k 56.81) is in front of feedL.drive motor (k 63.11) but drawn first   4.25 px² (33.56 px² the other way), up to 6.14 nearer, at 396.8,419.3
+  cycle  undefined  feedL.drive motor (k 63.11) is in front of feedL.actuator support (k 63.76) but drawn first   168.19 px² (48.81 px² the other way), up to 15.38 nearer, at 408.3,429.5
+  cycle  undefined  feedL.drum lip (k 71.11) is in front of feedL.roller drum (k 81.78) but drawn first   111.56 px² (1327.75 px² the other way), up to 4.47 nearer, at 426.5,466.3
+  cycle  undefined  feedL.roller drum (k 81.78) is in front of feedL.drum lip#2 (k 110.67) but drawn first   911.88 px² (342.38 px² the other way), up to 4.75 nearer, at 380.8,478.0
+  cycle  undefined  feedL.traction tooth#11 (k 56.76) is in front of feedL.drum lip (k 71.11) but drawn first   5.63 px² (2.38 px² the other way), up to 3.54 nearer, at 360.3,439.0
+  cycle  undefined  feedL.traction tooth#12 (k 52.71) is in front of feedL.drum lip (k 71.11) but drawn first   4.13 px² (2.31 px² the other way), up to 3.62 nearer, at 362.0,449.8
+  cycle  undefined  feedL.traction tooth#13 (k 50.60) is in front of feedL.drum lip (k 71.11) but drawn first   4.13 px² (2.81 px² the other way), up to 3.34 nearer, at 367.3,460.8
+  cycle  undefined  feedL.traction tooth#14 (k 50.62) is in front of feedL.drum lip (k 71.11) but drawn first   4.38 px² (2.88 px² the other way), up to 3.33 nearer, at 375.0,469.8
+  cycle  undefined  feedL.traction tooth#15 (k 52.78) is in front of feedL.drum lip (k 71.11) but drawn first   4.19 px² (2.31 px² the other way), up to 3.61 nearer, at 384.5,476.3
+  cycle  undefined  feedL.traction tooth#16 (k 56.87) is in front of feedL.drum lip (k 71.11) but drawn first   4.25 px² (1.25 px² the other way), up to 3.59 nearer, at 394.5,479.5
+  cycle  undefined  feedL.roller guard#7 (k 38.80) is in front of feedL.guard support#2 (k 46.40) but drawn first   2.81 px² (7.44 px² the other way), up to 1.18 nearer, at 369.8,463.5
+  cycle  undefined  feedL.actuator barrel (k 63.73) is in front of feedL.clevis pin (k 66.92) but drawn first   13.44 px² (9.25 px² the other way), up to 3.37 nearer, at 413.3,391.0
+  cycle  undefined  feedL.actuator barrel (k 63.73) is in front of feedL.actuator support (k 63.76) but drawn first   23.38 px² (96.81 px² the other way), up to 3.68 nearer, at 409.0,388.5
+  cycle  undefined  feedL.clevis pin#2 (k 56.81) is in front of feedL.rod (k 58.41) but drawn first   7.00 px² (4.19 px² the other way), up to 3.01 nearer, at 400.0,422.8
+  cycle  undefined  feedL.actuator support (k 63.76) is in front of feedL.clevis pin (k 66.92) but drawn first   16.50 px² (1.94 px² the other way), up to 3.87 nearer, at 413.3,391.0
+  cycle  undefined  feedR.swing arm (k 124.85) is in front of feedR.drive motor (k 137.14) but drawn first   197.31 px² (280.19 px² the other way), up to 6.85 nearer, at 569.5,465.8
+  cycle  undefined  feedR.swing arm (k 124.85) is in front of feedR.motor end flange (k 153.83) but drawn first   18.75 px² (501.00 px² the other way), up to 5.85 nearer, at 567.5,467.8
+  cycle  undefined  feedR.swing arm (k 124.85) is in front of feedR.actuator support (k 138.59) but drawn first   28.44 px² (110.81 px² the other way), up to 9.20 nearer, at 570.3,465.5
+  cycle  undefined  feedR.drive motor (k 137.14) is in front of feedR.guard support#2 (k 153.81) but drawn first   4.00 px² (40.19 px² the other way), up to 1.18 nearer, at 583.8,459.3
+  cycle  undefined  feedR.drive motor (k 137.14) is in front of feedR.rod (k 138.61) but drawn first   5.13 px² (18.44 px² the other way), up to 6.47 nearer, at 582.3,453.0
+  cycle  undefined  feedR.drive motor (k 137.14) is in front of feedR.clevis pin#2 (k 138.61) but drawn first   24.19 px² (10.44 px² the other way), up to 11.09 nearer, at 581.8,456.3
+  cycle  undefined  feedR.drive motor (k 137.14) is in front of feedR.actuator support (k 138.59) but drawn first   169.50 px² (41.31 px² the other way), up to 15.66 nearer, at 580.8,456.5
+  cycle  undefined  feedR.drum lip (k 153.83) is in front of feedR.roller drum (k 155.70) but drawn first   111.25 px² (1327.31 px² the other way), up to 4.47 nearer, at 598.3,497.5
+  cycle  undefined  feedR.roller drum (k 155.70) is in front of feedR.drum lip#2 (k 184.58) but drawn first   912.56 px² (343.44 px² the other way), up to 4.75 nearer, at 568.3,509.0
+  cycle  undefined  feedR.traction tooth#11 (k 130.68) is in front of feedR.drum lip (k 153.83) but drawn first   5.63 px² (1.31 px² the other way), up to 3.64 nearer, at 534.0,467.8
+  cycle  undefined  feedR.traction tooth#12 (k 126.63) is in front of feedR.drum lip (k 153.83) but drawn first   4.19 px² (2.13 px² the other way), up to 3.64 nearer, at 535.8,479.3
+  cycle  undefined  feedR.traction tooth#13 (k 124.51) is in front of feedR.drum lip (k 153.83) but drawn first   4.06 px² (2.88 px² the other way), up to 3.26 nearer, at 540.3,488.8
+  cycle  undefined  feedR.traction tooth#14 (k 124.53) is in front of feedR.drum lip (k 153.83) but drawn first   4.19 px² (3.06 px² the other way), up to 3.22 nearer, at 549.3,499.3
+  cycle  undefined  feedR.traction tooth#15 (k 126.70) is in front of feedR.drum lip (k 153.83) but drawn first   4.25 px² (2.19 px² the other way), up to 3.52 nearer, at 558.3,505.3
+  cycle  undefined  feedR.traction tooth#16 (k 130.78) is in front of feedR.drum lip (k 153.83) but drawn first   4.44 px² (1.38 px² the other way), up to 3.66 nearer, at 568.3,508.5
+  cycle  undefined  feedR.actuator barrel (k 138.59) is in front of feedR.actuator support (k 138.59) but drawn first   49.50 px² (25.63 px² the other way), up to 7.29 nearer, at 582.3,437.5
+  cycle  undefined  feedR.gland (k 136.88) is in front of feedR.actuator support (k 138.59) but drawn first   4.00 px² (3.38 px² the other way), up to 8.04 nearer, at 582.0,441.0
+  cycle  undefined  feedR.rod (k 138.61) is in front of feedR.clevis pin#2 (k 138.61) but drawn first   1.50 px² (7.31 px² the other way), up to 4.46 nearer, at 584.0,449.3
+  cycle  undefined  knifeL.knife pivot (k 96.20) is in front of knifeL.curved knife (k 123.92) but drawn first   38.75 px² (179.75 px² the other way), up to 5.02 nearer, at 446.0,361.8
+  cycle  undefined  knifeL.knife pivot (k 96.20) is in front of knifeL.honed edge (k 128.37) but drawn first   3.19 px² (26.69 px² the other way), up to 2.59 nearer, at 444.8,361.5
+  cycle  undefined  knifeL.knife pivot (k 96.20) is in front of knifeL.knife root (k 98.88) but drawn first   36.75 px² (121.31 px² the other way), up to 10.20 nearer, at 443.0,362.5
+  cycle  undefined  knifeL.actuator barrel (k 93.41) is in front of knifeL.knife pivot (k 96.20) but drawn first   10.19 px² (0.69 px² the other way), up to 5.93 nearer, at 453.5,379.3
+  cycle  undefined  knifeL.knife root (k 98.88) is in front of knifeL.curved knife (k 123.92) but drawn first   21.44 px² (98.56 px² the other way), up to 9.58 nearer, at 446.0,370.8
+  cycle  undefined  knifeL.actuator barrel (k 93.41) is in front of knifeL.clevis pin (k 95.25) but drawn first   11.06 px² (2.00 px² the other way), up to 4.80 nearer, at 475.5,376.5
+  cycle  undefined  knifeL.clevis pin#2 (k 89.39) is in front of knifeL.rod (k 90.33) but drawn first   4.50 px² (2.25 px² the other way), up to 2.85 nearer, at 438.8,378.0
+  cycle  undefined  knifeR.knife pivot (k 131.69) is in front of knifeR.curved knife (k 144.40) but drawn first   26.88 px² (169.63 px² the other way), up to 3.42 nearer, at 549.8,393.5
+  cycle  undefined  knifeR.knife pivot (k 131.69) is in front of knifeR.honed edge (k 148.03) but drawn first   3.06 px² (4.75 px² the other way), up to 2.47 nearer, at 542.0,392.5
+  cycle  undefined  knifeR.knife pivot (k 131.69) is in front of knifeR.knife root (k 134.00) but drawn first   40.50 px² (110.13 px² the other way), up to 10.97 nearer, at 540.5,394.8
+  cycle  undefined  knifeR.clevis pin#2 (k 130.17) is in front of knifeR.knife pivot (k 131.69) but drawn first   15.44 px² (4.38 px² the other way), up to 3.29 nearer, at 550.3,412.5
+  cycle  undefined  knifeR.knife root (k 134.00) is in front of knifeR.curved knife (k 144.40) but drawn first   27.88 px² (144.19 px² the other way), up to 3.61 nearer, at 549.8,398.3
+  cycle  undefined  lower.knife pivot (k 48.83) is in front of lower.curved knife (k 57.99) but drawn first   38.69 px² (179.69 px² the other way), up to 5.02 nearer, at 446.0,522.3
+  cycle  undefined  lower.knife pivot (k 48.83) is in front of lower.honed edge (k 62.44) but drawn first   3.25 px² (27.00 px² the other way), up to 2.54 nearer, at 445.0,519.5
+  cycle  undefined  lower.knife root (k 48.81) is in front of lower.knife pivot (k 48.83) but drawn first   120.94 px² (36.56 px² the other way), up to 9.04 nearer, at 436.3,531.5
+  cycle  undefined  lower.knife pivot (k 48.83) is in front of lower.actuator barrel (k 48.83) but drawn first   0.69 px² (10.19 px² the other way), up to 3.33 nearer, at 452.0,531.8
+  cycle  undefined  lower.knife root (k 48.81) is in front of lower.curved knife (k 57.99) but drawn first   21.75 px² (98.31 px² the other way), up to 9.58 nearer, at 446.0,529.0
+  cycle  undefined  lower.clevis pin (k 45.69) is in front of lower.actuator barrel (k 48.83) but drawn first   2.06 px² (11.06 px² the other way), up to 7.53 nearer, at 476.5,538.5
+  cycle  undefined  lower.rod (k 48.79) is in front of lower.clevis pin#2 (k 48.79) but drawn first   2.13 px² (4.56 px² the other way), up to 4.43 nearer, at 440.8,535.0
+  cycle  undefined  lower.knife pivot#2 (k 77.66) is in front of lower.curved knife#2 (k 79.15) but drawn first   27.00 px² (169.38 px² the other way), up to 3.42 nearer, at 549.8,550.0
+  cycle  undefined  lower.knife pivot#2 (k 77.66) is in front of lower.honed edge#2 (k 82.85) but drawn first   3.19 px² (4.63 px² the other way), up to 2.67 nearer, at 541.3,549.8
+  cycle  undefined  lower.knife root#2 (k 77.64) is in front of lower.knife pivot#2 (k 77.66) but drawn first   110.69 px² (40.38 px² the other way), up to 7.77 nearer, at 535.5,555.3
+  cycle  undefined  lower.knife pivot#2 (k 77.66) is in front of lower.clevis pin#4 (k 77.66) but drawn first   4.69 px² (15.50 px² the other way), up to 5.33 nearer, at 548.8,564.3
+  cycle  undefined  lower.knife root#2 (k 77.64) is in front of lower.curved knife#2 (k 79.15) but drawn first   27.88 px² (144.63 px² the other way), up to 3.61 nearer, at 549.8,554.8
+  cycle  undefined  measure.drum bracket (k 45.71) is in front of measure.drum shaft (k 46.56) but drawn first   4.06 px² (97.75 px² the other way), up to 4.24 nearer, at 470.3,497.5
+  cycle  undefined  measure.drum shaft#2 (k 77.58) is in front of measure.drum bracket#2 (k 77.58) but drawn first   32.06 px² (20.38 px² the other way), up to 3.98 nearer, at 518.5,512.5
+  cycle  undefined  measure.drum bracket#3 (k 74.53) is in front of measure.drum shaft#3 (k 81.78) but drawn first   4.00 px² (97.44 px² the other way), up to 4.49 nearer, at 470.3,413.0
+  cycle  undefined  measure.drum bracket#4 (k 97.53) is in front of measure.drum shaft#4 (k 102.14) but drawn first   20.13 px² (31.88 px² the other way), up to 6.97 nearer, at 525.8,424.0
+  cycle  undefined  measure.encoder enclosure (k 59.68) is in front of measure.measuring swing link (k 69.98) but drawn first   36.00 px² (90.88 px² the other way), up to 8.46 nearer, at 486.0,476.8
+  cycle  undefined  measure.clevis pin#2 (k 69.83) is in front of measure.rod (k 70.32) but drawn first   0.94 px² (0.75 px² the other way), up to 2.60 nearer, at 484.3,462.3
+  cycle  undefined  saw.guide bar (k 48.67) is in front of saw.motor housing (k 48.71) but drawn first   20.38 px² (159.69 px² the other way), up to 7.98 nearer, at 442.0,601.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.lower foot (k 48.73) but drawn first   264.94 px² (31.13 px² the other way), up to 29.43 nearer, at 471.8,544.0
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.upper crossmember (k 93.37) but drawn first   382.25 px² (227.75 px² the other way), up to 8.01 nearer, at 460.8,321.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.middle bridge (k 55.80) but drawn first   258.38 px² (30.56 px² the other way), up to 29.46 nearer, at 475.5,408.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek (k 45.67) but drawn first   365.31 px² (166.19 px² the other way), up to 25.42 nearer, at 483.5,545.8
+  cycle  undefined  frame.cheek fastener (k 45.69) is in front of frame.lower knife mounting lug (k 48.75) but drawn first   0.63 px² (12.63 px² the other way), up to 0.67 nearer, at 453.8,532.8
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot (k 48.73) but drawn first   182.00 px² (12.75 px² the other way), up to 32.97 nearer, at 471.8,544.0
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   43.88 px² (141.63 px² the other way), up to 8.03 nearer, at 563.3,566.3
+  cycle  undefined  frame.sculpted cheek#2 (k 77.54) is in front of frame.upper crossmember (k 93.37) but drawn first   511.19 px² (54.38 px² the other way), up to 21.25 nearer, at 565.0,356.3
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   251.44 px² (351.00 px² the other way), up to 3.54 nearer, at 535.5,558.5
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot#2 (k 36.63) but drawn first   49.56 px² (51.75 px² the other way), up to 15.90 nearer, at 551.5,558.3
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife pedestal#2 (k 77.58) but drawn first   1.38 px² (216.75 px² the other way), up to 5.38 nearer, at 553.8,576.8
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   52.81 px² (209.19 px² the other way), up to 7.97 nearer, at 558.3,574.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   1.94 px² (98.38 px² the other way), up to 3.41 nearer, at 545.5,561.8
+  cycle  undefined  frame.spine rib (k -3.55) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,531.5
+  cycle  undefined  frame.spine rib#2 (k 11.71) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.63 px² the other way), up to 11.90 nearer, at 534.8,506.0
+  cycle  undefined  frame.spine rib#3 (k 17.43) is in front of frame.rear spine (k 54.74) but drawn first   17.38 px² (267.69 px² the other way), up to 11.89 nearer, at 534.8,481.3
+  cycle  undefined  frame.spine rib#4 (k 27.92) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,456.5
+  cycle  undefined  frame.spine rib#5 (k 38.41) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.88 px² the other way), up to 11.90 nearer, at 534.8,430.5
+  cycle  undefined  frame.spine rib#6 (k 48.90) is in front of frame.rear spine (k 54.74) but drawn first   17.44 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,405.5
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#7 (k 59.38) but drawn first   267.88 px² (17.88 px² the other way), up to 16.47 nearer, at 528.0,374.0
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#8 (k 69.87) but drawn first   268.63 px² (17.63 px² the other way), up to 16.47 nearer, at 527.5,348.8
+  cycle  undefined  frame.rear mounting plate (k 11.71) is in front of frame.spine rib#2 (k 11.71) but drawn first   0.31 px² (110.81 px² the other way), up to 2.29 nearer, at 538.0,501.5
+  cycle  undefined  frame.rear mounting plate#2 (k 21.38) is in front of frame.spine rib#4 (k 27.92) but drawn first   0.31 px² (303.13 px² the other way), up to 2.29 nearer, at 538.5,451.3
+  cycle  undefined  frame.rear mounting plate#3 (k 54.72) is in front of frame.spine rib#7 (k 59.38) but drawn first   0.31 px² (231.38 px² the other way), up to 2.30 nearer, at 538.5,375.8
+  cycle  undefined  tilt.pivot cap (k -45.00) is in front of tilt.tilt upright (k 7.10) but drawn first   25.50 px² (23.06 px² the other way), up to 12.99 nearer, at 481.0,492.3
+  cycle  undefined  tilt.pivot cap (k -45.00) is in front of tilt.lower cross tie (k 7.12) but drawn first   6.94 px² (6.75 px² the other way), up to 9.38 nearer, at 479.8,489.8
+  cycle  undefined  tilt.pivot cap#2 (k -2.00) is in front of tilt.lower cross tie (k 7.12) but drawn first   42.13 px² (5.19 px² the other way), up to 14.23 nearer, at 576.3,504.3
+  cycle  undefined  rotator.body band (k 78.22) is in front of rotator.rotator body (k 82.48) but drawn first   81.81 px² (86.88 px² the other way), up to 4.74 nearer, at 507.3,260.8
+  cycle  undefined  rotator.body band#2 (k 81.22) is in front of rotator.rotator body (k 82.48) but drawn first   81.19 px² (86.69 px² the other way), up to 4.74 nearer, at 507.3,255.5
+  cycle  undefined  rotator.rotator body (k 82.48) is in front of rotator.body band#3 (k 87.59) but drawn first   86.81 px² (82.31 px² the other way), up to 10.71 nearer, at 518.5,230.5
+  cycle  undefined  rotator.body band#2 (k 81.22) is in front of rotator.motor fin#6 (k 85.64) but drawn first   0.50 px² (2.63 px² the other way), up to 3.30 nearer, at 507.0,253.0
+  cycle  undefined  rotator.motor fin#11 (k 70.88) is in front of rotator.body band#2 (k 81.22) but drawn first   0.31 px² (0.50 px² the other way), up to 1.84 nearer, at 545.5,245.5
+  cycle  undefined  rotator.motor fin#12 (k 81.18) is in front of rotator.body band#2 (k 81.22) but drawn first   1.13 px² (0.25 px² the other way), up to 5.59 nearer, at 549.5,248.3
+  cycle  undefined  rotator.upper neck (k 91.09) is in front of rotator.suspension ear (k 94.55) but drawn first   2.13 px² (34.13 px² the other way), up to 2.64 nearer, at 523.0,223.3
+  cycle  undefined  rotator.upper neck (k 91.09) is in front of rotator.suspension ear#2 (k 103.30) but drawn first   1.94 px² (70.13 px² the other way), up to 2.58 nearer, at 532.0,225.8
+  cycle  undefined  rotator.suspension ear (k 94.55) is in front of rotator.top cross pin (k 100.64) but drawn first   75.81 px² (21.19 px² the other way), up to 7.47 nearer, at 520.3,199.8
+  cycle  undefined  rotator.top cross pin (k 100.64) is in front of rotator.suspension ear#2 (k 103.30) but drawn first   14.38 px² (77.56 px² the other way), up to 3.89 nearer, at 544.5,204.0
+  cycle  undefined  feedL.drive motor (k 59.66) is in front of feedL.swing arm (k 62.57) but drawn first   88.19 px² (401.06 px² the other way), up to 20.98 nearer, at 390.8,425.3
+  cycle  undefined  feedL.swing arm (k 62.57) is in front of feedL.motor end flange (k 63.93) but drawn first   9.06 px² (304.25 px² the other way), up to 4.81 nearer, at 386.8,445.0
+  cycle  undefined  feedL.actuator support (k 60.31) is in front of feedL.swing arm (k 62.57) but drawn first   30.38 px² (66.88 px² the other way), up to 13.51 nearer, at 390.8,425.3
+  cycle  undefined  feedL.rod (k 54.96) is in front of feedL.drive motor (k 59.66) but drawn first   7.81 px² (8.19 px² the other way), up to 12.68 nearer, at 384.0,416.3
+  cycle  undefined  feedL.clevis pin#2 (k 53.36) is in front of feedL.drive motor (k 59.66) but drawn first   4.25 px² (33.56 px² the other way), up to 6.14 nearer, at 381.8,418.0
+  cycle  undefined  feedL.drive motor (k 59.66) is in front of feedL.actuator support (k 60.31) but drawn first   168.19 px² (48.81 px² the other way), up to 15.38 nearer, at 393.3,428.3
+  cycle  undefined  feedL.drum lip (k 67.66) is in front of feedL.roller drum (k 78.33) but drawn first   111.56 px² (1327.75 px² the other way), up to 4.47 nearer, at 411.5,465.0
+  cycle  undefined  feedL.roller drum (k 78.33) is in front of feedL.drum lip#2 (k 107.22) but drawn first   911.88 px² (342.38 px² the other way), up to 4.75 nearer, at 365.8,476.8
+  cycle  undefined  feedL.traction tooth#11 (k 53.32) is in front of feedL.drum lip (k 67.66) but drawn first   5.63 px² (2.38 px² the other way), up to 3.54 nearer, at 345.3,437.8
+  cycle  undefined  feedL.traction tooth#12 (k 49.26) is in front of feedL.drum lip (k 67.66) but drawn first   4.13 px² (2.31 px² the other way), up to 3.62 nearer, at 347.0,448.5
+  cycle  undefined  feedL.traction tooth#13 (k 47.15) is in front of feedL.drum lip (k 67.66) but drawn first   4.13 px² (2.81 px² the other way), up to 3.34 nearer, at 352.3,459.5
+  cycle  undefined  feedL.traction tooth#14 (k 47.17) is in front of feedL.drum lip (k 67.66) but drawn first   4.38 px² (2.88 px² the other way), up to 3.33 nearer, at 360.0,468.5
+  cycle  undefined  feedL.traction tooth#15 (k 49.33) is in front of feedL.drum lip (k 67.66) but drawn first   4.19 px² (2.31 px² the other way), up to 3.61 nearer, at 369.5,475.0
+  cycle  undefined  feedL.traction tooth#16 (k 53.42) is in front of feedL.drum lip (k 67.66) but drawn first   4.25 px² (1.25 px² the other way), up to 3.59 nearer, at 379.5,478.3
+  cycle  undefined  feedL.roller guard#7 (k 35.35) is in front of feedL.guard support#2 (k 42.96) but drawn first   2.81 px² (7.44 px² the other way), up to 1.18 nearer, at 354.8,462.3
+  cycle  undefined  feedL.actuator barrel (k 60.28) is in front of feedL.clevis pin (k 63.47) but drawn first   13.44 px² (9.25 px² the other way), up to 3.37 nearer, at 398.3,389.8
+  cycle  undefined  feedL.actuator barrel (k 60.28) is in front of feedL.actuator support (k 60.31) but drawn first   23.38 px² (96.81 px² the other way), up to 3.68 nearer, at 394.0,387.3
+  cycle  undefined  feedL.clevis pin#2 (k 53.36) is in front of feedL.rod (k 54.96) but drawn first   7.00 px² (4.19 px² the other way), up to 3.01 nearer, at 385.0,421.5
+  cycle  undefined  feedL.actuator support (k 60.31) is in front of feedL.clevis pin (k 63.47) but drawn first   16.50 px² (1.94 px² the other way), up to 3.87 nearer, at 398.3,389.8
+  cycle  undefined  feedR.swing arm (k 132.25) is in front of feedR.drive motor (k 144.55) but drawn first   197.31 px² (280.19 px² the other way), up to 6.85 nearer, at 580.8,468.8
+  cycle  undefined  feedR.swing arm (k 132.25) is in front of feedR.motor end flange (k 161.24) but drawn first   18.75 px² (501.00 px² the other way), up to 5.85 nearer, at 578.8,470.8
+  cycle  undefined  feedR.swing arm (k 132.25) is in front of feedR.actuator support (k 146.00) but drawn first   28.44 px² (110.81 px² the other way), up to 9.20 nearer, at 581.5,468.5
+  cycle  undefined  feedR.drive motor (k 144.55) is in front of feedR.guard support#2 (k 161.22) but drawn first   4.00 px² (40.19 px² the other way), up to 1.18 nearer, at 595.0,462.3
+  cycle  undefined  feedR.drive motor (k 144.55) is in front of feedR.rod (k 146.02) but drawn first   5.13 px² (18.44 px² the other way), up to 6.47 nearer, at 593.5,456.0
+  cycle  undefined  feedR.drive motor (k 144.55) is in front of feedR.clevis pin#2 (k 146.02) but drawn first   24.19 px² (10.44 px² the other way), up to 11.09 nearer, at 593.0,459.3
+  cycle  undefined  feedR.drive motor (k 144.55) is in front of feedR.actuator support (k 146.00) but drawn first   169.50 px² (41.31 px² the other way), up to 15.66 nearer, at 592.0,459.5
+  cycle  undefined  feedR.drum lip (k 161.24) is in front of feedR.roller drum (k 163.11) but drawn first   111.25 px² (1327.31 px² the other way), up to 4.47 nearer, at 609.5,500.5
+  cycle  undefined  feedR.roller drum (k 163.11) is in front of feedR.drum lip#2 (k 191.99) but drawn first   912.56 px² (343.44 px² the other way), up to 4.75 nearer, at 579.5,512.0
+  cycle  undefined  feedR.traction tooth#11 (k 138.09) is in front of feedR.drum lip (k 161.24) but drawn first   5.63 px² (1.31 px² the other way), up to 3.64 nearer, at 545.3,470.8
+  cycle  undefined  feedR.traction tooth#12 (k 134.04) is in front of feedR.drum lip (k 161.24) but drawn first   4.19 px² (2.13 px² the other way), up to 3.64 nearer, at 547.0,482.3
+  cycle  undefined  feedR.traction tooth#13 (k 131.92) is in front of feedR.drum lip (k 161.24) but drawn first   4.06 px² (2.88 px² the other way), up to 3.26 nearer, at 551.5,491.8
+  cycle  undefined  feedR.traction tooth#14 (k 131.94) is in front of feedR.drum lip (k 161.24) but drawn first   4.19 px² (3.06 px² the other way), up to 3.22 nearer, at 560.5,502.3
+  cycle  undefined  feedR.traction tooth#15 (k 134.10) is in front of feedR.drum lip (k 161.24) but drawn first   4.25 px² (2.19 px² the other way), up to 3.52 nearer, at 569.5,508.3
+  cycle  undefined  feedR.traction tooth#16 (k 138.19) is in front of feedR.drum lip (k 161.24) but drawn first   4.44 px² (1.38 px² the other way), up to 3.66 nearer, at 579.5,511.5
+  cycle  undefined  feedR.actuator barrel (k 146.00) is in front of feedR.actuator support (k 146.00) but drawn first   49.50 px² (25.63 px² the other way), up to 7.29 nearer, at 593.5,440.5
+  cycle  undefined  feedR.gland (k 144.29) is in front of feedR.actuator support (k 146.00) but drawn first   4.00 px² (3.38 px² the other way), up to 8.04 nearer, at 593.3,444.0
+  cycle  undefined  feedR.rod (k 146.02) is in front of feedR.clevis pin#2 (k 146.02) but drawn first   1.50 px² (7.31 px² the other way), up to 4.46 nearer, at 595.3,452.3
+  cycle  undefined  knifeL.knife pivot (k 105.06) is in front of knifeL.curved knife (k 132.79) but drawn first   38.75 px² (179.75 px² the other way), up to 5.02 nearer, at 425.5,353.8
+  cycle  undefined  knifeL.knife pivot (k 105.06) is in front of knifeL.honed edge (k 137.24) but drawn first   3.19 px² (26.69 px² the other way), up to 2.59 nearer, at 424.3,353.5
+  cycle  undefined  knifeL.knife pivot (k 105.06) is in front of knifeL.knife root (k 107.75) but drawn first   36.75 px² (121.31 px² the other way), up to 10.20 nearer, at 422.5,354.5
+  cycle  undefined  knifeL.actuator barrel (k 102.27) is in front of knifeL.knife pivot (k 105.06) but drawn first   10.19 px² (0.69 px² the other way), up to 5.93 nearer, at 433.0,371.3
+  cycle  undefined  knifeL.knife root (k 107.75) is in front of knifeL.curved knife (k 132.79) but drawn first   21.44 px² (98.56 px² the other way), up to 9.58 nearer, at 425.5,362.8
+  cycle  undefined  knifeL.actuator barrel (k 102.27) is in front of knifeL.clevis pin (k 104.12) but drawn first   11.06 px² (2.00 px² the other way), up to 4.80 nearer, at 455.0,368.5
+  cycle  undefined  knifeL.clevis pin#2 (k 98.26) is in front of knifeL.rod (k 99.20) but drawn first   4.50 px² (2.25 px² the other way), up to 2.85 nearer, at 418.3,370.0
+  cycle  undefined  knifeR.knife pivot (k 151.90) is in front of knifeR.curved knife (k 164.61) but drawn first   26.88 px² (169.63 px² the other way), up to 3.42 nearer, at 558.8,390.3
+  cycle  undefined  knifeR.knife pivot (k 151.90) is in front of knifeR.honed edge (k 168.24) but drawn first   3.06 px² (4.75 px² the other way), up to 2.47 nearer, at 551.0,389.3
+  cycle  undefined  knifeR.knife pivot (k 151.90) is in front of knifeR.knife root (k 154.21) but drawn first   40.50 px² (110.13 px² the other way), up to 10.97 nearer, at 549.5,391.5
+  cycle  undefined  knifeR.clevis pin#2 (k 150.38) is in front of knifeR.knife pivot (k 151.90) but drawn first   15.44 px² (4.38 px² the other way), up to 3.29 nearer, at 559.3,409.3
+  cycle  undefined  knifeR.knife root (k 154.21) is in front of knifeR.curved knife (k 164.61) but drawn first   27.88 px² (144.19 px² the other way), up to 3.61 nearer, at 558.8,395.0
+  cycle  undefined  lower.knife pivot (k 63.86) is in front of lower.curved knife (k 73.02) but drawn first   38.69 px² (179.69 px² the other way), up to 5.02 nearer, at 439.0,527.5
+  cycle  undefined  lower.knife pivot (k 63.86) is in front of lower.honed edge (k 77.47) but drawn first   3.25 px² (27.00 px² the other way), up to 2.54 nearer, at 438.0,524.8
+  cycle  undefined  lower.knife root (k 63.84) is in front of lower.knife pivot (k 63.86) but drawn first   120.94 px² (36.56 px² the other way), up to 9.04 nearer, at 429.3,536.8
+  cycle  undefined  lower.knife pivot (k 63.86) is in front of lower.actuator barrel (k 63.86) but drawn first   0.69 px² (10.19 px² the other way), up to 3.33 nearer, at 445.0,537.0
+  cycle  undefined  lower.knife root (k 63.84) is in front of lower.curved knife (k 73.02) but drawn first   21.75 px² (98.31 px² the other way), up to 9.58 nearer, at 439.0,534.3
+  cycle  undefined  lower.clevis pin (k 60.72) is in front of lower.actuator barrel (k 63.86) but drawn first   2.06 px² (11.06 px² the other way), up to 7.53 nearer, at 469.5,543.8
+  cycle  undefined  lower.rod (k 63.82) is in front of lower.clevis pin#2 (k 63.82) but drawn first   2.13 px² (4.56 px² the other way), up to 4.43 nearer, at 433.8,540.3
+  cycle  undefined  lower.knife pivot#2 (k 92.69) is in front of lower.curved knife#2 (k 94.18) but drawn first   27.00 px² (169.38 px² the other way), up to 3.42 nearer, at 542.8,555.3
+  cycle  undefined  lower.knife pivot#2 (k 92.69) is in front of lower.honed edge#2 (k 97.88) but drawn first   3.19 px² (4.63 px² the other way), up to 2.67 nearer, at 534.3,555.0
+  cycle  undefined  lower.knife root#2 (k 92.67) is in front of lower.knife pivot#2 (k 92.69) but drawn first   110.69 px² (40.38 px² the other way), up to 7.77 nearer, at 528.5,560.5
+  cycle  undefined  lower.knife pivot#2 (k 92.69) is in front of lower.clevis pin#4 (k 92.69) but drawn first   4.69 px² (15.50 px² the other way), up to 5.33 nearer, at 541.8,569.5
+  cycle  undefined  lower.knife root#2 (k 92.67) is in front of lower.curved knife#2 (k 94.18) but drawn first   27.88 px² (144.63 px² the other way), up to 3.61 nearer, at 542.8,560.0
+  cycle  undefined  measure.drum bracket (k 55.92) is in front of measure.drum shaft (k 56.77) but drawn first   4.06 px² (97.75 px² the other way), up to 4.24 nearer, at 465.8,499.5
+  cycle  undefined  measure.drum shaft#2 (k 87.79) is in front of measure.drum bracket#2 (k 87.79) but drawn first   32.06 px² (20.38 px² the other way), up to 3.98 nearer, at 514.0,514.5
+  cycle  undefined  measure.drum bracket#3 (k 84.73) is in front of measure.drum shaft#3 (k 91.98) but drawn first   4.00 px² (97.44 px² the other way), up to 4.49 nearer, at 465.8,415.0
+  cycle  undefined  measure.drum bracket#4 (k 107.73) is in front of measure.drum shaft#4 (k 112.34) but drawn first   20.13 px² (31.88 px² the other way), up to 6.97 nearer, at 521.3,426.0
+  cycle  undefined  measure.encoder enclosure (k 69.88) is in front of measure.measuring swing link (k 80.18) but drawn first   36.00 px² (90.88 px² the other way), up to 8.46 nearer, at 481.5,478.8
+  cycle  undefined  measure.clevis pin#2 (k 80.03) is in front of measure.rod (k 80.52) but drawn first   0.94 px² (0.75 px² the other way), up to 2.60 nearer, at 479.8,464.3
+  cycle  undefined  saw.guide bar (k 44.08) is in front of saw.motor housing (k 44.12) but drawn first   20.38 px² (159.69 px² the other way), up to 7.98 nearer, at 436.3,609.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.lower foot (k 48.73) but drawn first   264.94 px² (31.13 px² the other way), up to 29.43 nearer, at 471.8,544.0
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.upper crossmember (k 93.37) but drawn first   382.25 px² (227.75 px² the other way), up to 8.01 nearer, at 460.8,321.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.middle bridge (k 55.80) but drawn first   258.38 px² (30.56 px² the other way), up to 29.46 nearer, at 475.5,408.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek (k 45.67) but drawn first   365.31 px² (166.19 px² the other way), up to 25.42 nearer, at 483.5,545.8
+  cycle  undefined  frame.cheek fastener (k 45.69) is in front of frame.lower knife mounting lug (k 48.75) but drawn first   0.63 px² (12.63 px² the other way), up to 0.67 nearer, at 453.8,532.8
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot (k 48.73) but drawn first   182.00 px² (12.75 px² the other way), up to 32.97 nearer, at 471.8,544.0
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   43.88 px² (141.63 px² the other way), up to 8.03 nearer, at 563.3,566.3
+  cycle  undefined  frame.sculpted cheek#2 (k 77.54) is in front of frame.upper crossmember (k 93.37) but drawn first   511.19 px² (54.38 px² the other way), up to 21.25 nearer, at 565.0,356.3
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   251.44 px² (351.00 px² the other way), up to 3.54 nearer, at 535.5,558.5
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot#2 (k 36.63) but drawn first   49.56 px² (51.75 px² the other way), up to 15.90 nearer, at 551.5,558.3
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife pedestal#2 (k 77.58) but drawn first   1.38 px² (216.75 px² the other way), up to 5.38 nearer, at 553.8,576.8
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   52.81 px² (209.19 px² the other way), up to 7.97 nearer, at 558.3,574.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   1.94 px² (98.38 px² the other way), up to 3.41 nearer, at 545.5,561.8
+  cycle  undefined  frame.spine rib (k -3.55) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,531.5
+  cycle  undefined  frame.spine rib#2 (k 11.71) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.63 px² the other way), up to 11.90 nearer, at 534.8,506.0
+  cycle  undefined  frame.spine rib#3 (k 17.43) is in front of frame.rear spine (k 54.74) but drawn first   17.38 px² (267.69 px² the other way), up to 11.89 nearer, at 534.8,481.3
+  cycle  undefined  frame.spine rib#4 (k 27.92) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,456.5
+  cycle  undefined  frame.spine rib#5 (k 38.41) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.88 px² the other way), up to 11.90 nearer, at 534.8,430.5
+  cycle  undefined  frame.spine rib#6 (k 48.90) is in front of frame.rear spine (k 54.74) but drawn first   17.44 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,405.5
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#7 (k 59.38) but drawn first   267.88 px² (17.88 px² the other way), up to 16.47 nearer, at 528.0,374.0
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#8 (k 69.87) but drawn first   268.63 px² (17.63 px² the other way), up to 16.47 nearer, at 527.5,348.8
+  cycle  undefined  frame.rear mounting plate (k 11.71) is in front of frame.spine rib#2 (k 11.71) but drawn first   0.31 px² (110.81 px² the other way), up to 2.29 nearer, at 538.0,501.5
+  cycle  undefined  frame.rear mounting plate#2 (k 21.38) is in front of frame.spine rib#4 (k 27.92) but drawn first   0.31 px² (303.13 px² the other way), up to 2.29 nearer, at 538.5,451.3
+  cycle  undefined  frame.rear mounting plate#3 (k 54.72) is in front of frame.spine rib#7 (k 59.38) but drawn first   0.31 px² (231.38 px² the other way), up to 2.30 nearer, at 538.5,375.8
+  cycle  undefined  tilt.pivot cap (k -73.93) is in front of tilt.tilt upright (k -21.84) but drawn first   25.50 px² (23.06 px² the other way), up to 12.99 nearer, at 486.5,463.3
+  cycle  undefined  tilt.pivot cap (k -73.93) is in front of tilt.lower cross tie (k -21.82) but drawn first   6.94 px² (6.75 px² the other way), up to 9.38 nearer, at 485.3,460.8
+  cycle  undefined  tilt.pivot cap#2 (k -30.94) is in front of tilt.lower cross tie (k -21.82) but drawn first   42.13 px² (5.19 px² the other way), up to 14.23 nearer, at 581.8,475.3
+  cycle  undefined  rotator.body band (k 92.56) is in front of rotator.rotator body (k 96.81) but drawn first   81.81 px² (86.88 px² the other way), up to 4.74 nearer, at 507.3,226.3
+  cycle  undefined  rotator.body band#2 (k 95.56) is in front of rotator.rotator body (k 96.81) but drawn first   81.19 px² (86.69 px² the other way), up to 4.74 nearer, at 507.3,221.0
+  cycle  undefined  rotator.rotator body (k 96.81) is in front of rotator.body band#3 (k 101.93) but drawn first   86.81 px² (82.31 px² the other way), up to 10.71 nearer, at 518.5,196.0
+  cycle  undefined  rotator.body band#2 (k 95.56) is in front of rotator.motor fin#6 (k 99.98) but drawn first   0.50 px² (2.63 px² the other way), up to 3.30 nearer, at 507.0,218.5
+  cycle  undefined  rotator.motor fin#11 (k 85.21) is in front of rotator.body band#2 (k 95.56) but drawn first   0.31 px² (0.50 px² the other way), up to 1.84 nearer, at 545.5,211.0
+  cycle  undefined  rotator.motor fin#12 (k 95.52) is in front of rotator.body band#2 (k 95.56) but drawn first   1.13 px² (0.25 px² the other way), up to 5.59 nearer, at 549.5,213.8
+  cycle  undefined  rotator.upper neck (k 105.43) is in front of rotator.suspension ear (k 108.88) but drawn first   2.13 px² (34.13 px² the other way), up to 2.64 nearer, at 523.0,188.8
+  cycle  undefined  rotator.upper neck (k 105.43) is in front of rotator.suspension ear#2 (k 117.63) but drawn first   1.94 px² (70.13 px² the other way), up to 2.58 nearer, at 532.0,191.3
+  cycle  undefined  rotator.suspension ear (k 108.88) is in front of rotator.top cross pin (k 114.98) but drawn first   75.81 px² (21.19 px² the other way), up to 7.47 nearer, at 520.3,165.3
+  cycle  undefined  rotator.top cross pin (k 114.98) is in front of rotator.suspension ear#2 (k 117.63) but drawn first   14.38 px² (77.56 px² the other way), up to 3.89 nearer, at 544.5,169.5
+  cycle  undefined  feedL.drive motor (k 49.37) is in front of feedL.swing arm (k 52.27) but drawn first   88.19 px² (401.06 px² the other way), up to 20.98 nearer, at 346.0,421.0
+  cycle  undefined  feedL.swing arm (k 52.27) is in front of feedL.motor end flange (k 53.64) but drawn first   9.06 px² (304.25 px² the other way), up to 4.81 nearer, at 342.0,440.8
+  cycle  undefined  feedL.actuator support (k 50.02) is in front of feedL.swing arm (k 52.27) but drawn first   30.38 px² (66.88 px² the other way), up to 13.51 nearer, at 346.0,421.0
+  cycle  undefined  feedL.rod (k 44.66) is in front of feedL.drive motor (k 49.37) but drawn first   7.81 px² (8.19 px² the other way), up to 12.68 nearer, at 339.3,412.0
+  cycle  undefined  feedL.clevis pin#2 (k 43.07) is in front of feedL.drive motor (k 49.37) but drawn first   4.25 px² (33.56 px² the other way), up to 6.14 nearer, at 337.0,413.8
+  cycle  undefined  feedL.drive motor (k 49.37) is in front of feedL.actuator support (k 50.02) but drawn first   168.19 px² (48.81 px² the other way), up to 15.38 nearer, at 348.5,424.0
+  cycle  undefined  feedL.drum lip (k 57.37) is in front of feedL.roller drum (k 68.04) but drawn first   111.56 px² (1327.75 px² the other way), up to 4.47 nearer, at 366.8,460.8
+  cycle  undefined  feedL.roller drum (k 68.04) is in front of feedL.drum lip#2 (k 96.92) but drawn first   911.88 px² (342.38 px² the other way), up to 4.75 nearer, at 321.0,472.5
+  cycle  undefined  feedL.traction tooth#11 (k 43.02) is in front of feedL.drum lip (k 57.37) but drawn first   5.63 px² (2.38 px² the other way), up to 3.54 nearer, at 300.5,433.5
+  cycle  undefined  feedL.traction tooth#12 (k 38.97) is in front of feedL.drum lip (k 57.37) but drawn first   4.13 px² (2.31 px² the other way), up to 3.62 nearer, at 302.3,444.3
+  cycle  undefined  feedL.traction tooth#13 (k 36.85) is in front of feedL.drum lip (k 57.37) but drawn first   4.13 px² (2.81 px² the other way), up to 3.34 nearer, at 307.5,455.3
+  cycle  undefined  feedL.traction tooth#14 (k 36.87) is in front of feedL.drum lip (k 57.37) but drawn first   4.38 px² (2.88 px² the other way), up to 3.33 nearer, at 315.3,464.3
+  cycle  undefined  feedL.traction tooth#15 (k 39.04) is in front of feedL.drum lip (k 57.37) but drawn first   4.19 px² (2.31 px² the other way), up to 3.61 nearer, at 324.8,470.8
+  cycle  undefined  feedL.traction tooth#16 (k 43.12) is in front of feedL.drum lip (k 57.37) but drawn first   4.25 px² (1.25 px² the other way), up to 3.59 nearer, at 334.8,474.0
+  cycle  undefined  feedL.roller guard#7 (k 25.05) is in front of feedL.guard support#2 (k 32.66) but drawn first   2.81 px² (7.44 px² the other way), up to 1.18 nearer, at 310.0,458.0
+  cycle  undefined  feedL.actuator barrel (k 49.99) is in front of feedL.clevis pin (k 53.17) but drawn first   13.44 px² (9.25 px² the other way), up to 3.37 nearer, at 353.5,385.5
+  cycle  undefined  feedL.actuator barrel (k 49.99) is in front of feedL.actuator support (k 50.02) but drawn first   23.38 px² (96.81 px² the other way), up to 3.68 nearer, at 349.3,383.0
+  cycle  undefined  feedL.clevis pin#2 (k 43.07) is in front of feedL.rod (k 44.66) but drawn first   7.00 px² (4.19 px² the other way), up to 3.01 nearer, at 340.3,417.3
+  cycle  undefined  feedL.actuator support (k 50.02) is in front of feedL.clevis pin (k 53.17) but drawn first   16.50 px² (1.94 px² the other way), up to 3.87 nearer, at 353.5,385.5
+  cycle  undefined  feedR.swing arm (k 157.20) is in front of feedR.drive motor (k 169.49) but drawn first   197.31 px² (280.19 px² the other way), up to 6.85 nearer, at 618.8,478.5
+  cycle  undefined  feedR.swing arm (k 157.20) is in front of feedR.motor end flange (k 186.18) but drawn first   18.75 px² (501.00 px² the other way), up to 5.85 nearer, at 616.8,480.5
+  cycle  undefined  feedR.swing arm (k 157.20) is in front of feedR.actuator support (k 170.94) but drawn first   28.44 px² (110.81 px² the other way), up to 9.20 nearer, at 619.5,478.3
+  cycle  undefined  feedR.drive motor (k 169.49) is in front of feedR.guard support#2 (k 186.16) but drawn first   4.00 px² (40.19 px² the other way), up to 1.18 nearer, at 633.0,472.0
+  cycle  undefined  feedR.drive motor (k 169.49) is in front of feedR.rod (k 170.96) but drawn first   5.13 px² (18.44 px² the other way), up to 6.47 nearer, at 631.5,465.8
+  cycle  undefined  feedR.drive motor (k 169.49) is in front of feedR.clevis pin#2 (k 170.96) but drawn first   24.19 px² (10.44 px² the other way), up to 11.09 nearer, at 631.0,469.0
+  cycle  undefined  feedR.drive motor (k 169.49) is in front of feedR.actuator support (k 170.94) but drawn first   169.50 px² (41.31 px² the other way), up to 15.66 nearer, at 630.0,469.3
+  cycle  undefined  feedR.drum lip (k 186.18) is in front of feedR.roller drum (k 188.05) but drawn first   111.25 px² (1327.31 px² the other way), up to 4.47 nearer, at 647.5,510.3
+  cycle  undefined  feedR.roller drum (k 188.05) is in front of feedR.drum lip#2 (k 216.94) but drawn first   912.56 px² (343.44 px² the other way), up to 4.75 nearer, at 617.5,521.8
+  cycle  undefined  feedR.traction tooth#11 (k 163.03) is in front of feedR.drum lip (k 186.18) but drawn first   5.63 px² (1.31 px² the other way), up to 3.64 nearer, at 583.3,480.5
+  cycle  undefined  feedR.traction tooth#12 (k 158.98) is in front of feedR.drum lip (k 186.18) but drawn first   4.19 px² (2.13 px² the other way), up to 3.64 nearer, at 585.0,492.0
+  cycle  undefined  feedR.traction tooth#13 (k 156.86) is in front of feedR.drum lip (k 186.18) but drawn first   4.06 px² (2.88 px² the other way), up to 3.26 nearer, at 589.5,501.5
+  cycle  undefined  feedR.traction tooth#14 (k 156.89) is in front of feedR.drum lip (k 186.18) but drawn first   4.19 px² (3.06 px² the other way), up to 3.22 nearer, at 598.5,512.0
+  cycle  undefined  feedR.traction tooth#15 (k 159.05) is in front of feedR.drum lip (k 186.18) but drawn first   4.25 px² (2.19 px² the other way), up to 3.52 nearer, at 607.5,518.0
+  cycle  undefined  feedR.traction tooth#16 (k 163.14) is in front of feedR.drum lip (k 186.18) but drawn first   4.44 px² (1.38 px² the other way), up to 3.66 nearer, at 617.5,521.3
+  cycle  undefined  feedR.actuator barrel (k 170.94) is in front of feedR.actuator support (k 170.94) but drawn first   49.50 px² (25.63 px² the other way), up to 7.29 nearer, at 631.5,450.3
+  cycle  undefined  feedR.gland (k 169.24) is in front of feedR.actuator support (k 170.94) but drawn first   4.00 px² (3.38 px² the other way), up to 8.04 nearer, at 631.3,453.8
+  cycle  undefined  feedR.rod (k 170.96) is in front of feedR.clevis pin#2 (k 170.96) but drawn first   1.50 px² (7.31 px² the other way), up to 4.46 nearer, at 633.3,462.0
+  cycle  undefined  knifeL.knife pivot (k 124.57) is in front of knifeL.curved knife (k 152.29) but drawn first   38.75 px² (179.75 px² the other way), up to 5.02 nearer, at 380.5,336.3
+  cycle  undefined  knifeL.knife pivot (k 124.57) is in front of knifeL.honed edge (k 156.74) but drawn first   3.19 px² (26.69 px² the other way), up to 2.59 nearer, at 379.3,336.0
+  cycle  undefined  knifeL.knife pivot (k 124.57) is in front of knifeL.knife root (k 127.25) but drawn first   36.75 px² (121.31 px² the other way), up to 10.20 nearer, at 377.5,337.0
+  cycle  undefined  knifeL.actuator barrel (k 121.78) is in front of knifeL.knife pivot (k 124.57) but drawn first   10.19 px² (0.69 px² the other way), up to 5.93 nearer, at 388.0,353.8
+  cycle  undefined  knifeL.knife root (k 127.25) is in front of knifeL.curved knife (k 152.29) but drawn first   21.44 px² (98.56 px² the other way), up to 9.58 nearer, at 380.5,345.3
+  cycle  undefined  knifeL.actuator barrel (k 121.78) is in front of knifeL.clevis pin (k 123.62) but drawn first   11.06 px² (2.00 px² the other way), up to 4.80 nearer, at 410.0,351.0
+  cycle  undefined  knifeL.clevis pin#2 (k 117.76) is in front of knifeL.rod (k 118.70) but drawn first   4.50 px² (2.25 px² the other way), up to 2.85 nearer, at 373.3,352.5
+  cycle  undefined  knifeR.knife pivot (k 200.75) is in front of knifeR.curved knife (k 213.46) but drawn first   26.88 px² (169.63 px² the other way), up to 3.42 nearer, at 581.0,382.3
+  cycle  undefined  knifeR.knife pivot (k 200.75) is in front of knifeR.honed edge (k 217.09) but drawn first   3.06 px² (4.75 px² the other way), up to 2.47 nearer, at 573.3,381.3
+  cycle  undefined  knifeR.knife pivot (k 200.75) is in front of knifeR.knife root (k 203.06) but drawn first   40.50 px² (110.13 px² the other way), up to 10.97 nearer, at 571.8,383.5
+  cycle  undefined  knifeR.clevis pin#2 (k 199.23) is in front of knifeR.knife pivot (k 200.75) but drawn first   15.44 px² (4.38 px² the other way), up to 3.29 nearer, at 581.5,401.3
+  cycle  undefined  knifeR.knife root (k 203.06) is in front of knifeR.curved knife (k 213.46) but drawn first   27.88 px² (144.19 px² the other way), up to 3.61 nearer, at 581.0,387.0
+  cycle  undefined  lower.knife pivot (k 104.06) is in front of lower.curved knife (k 113.22) but drawn first   38.69 px² (179.69 px² the other way), up to 5.02 nearer, at 420.8,541.5
+  cycle  undefined  lower.knife pivot (k 104.06) is in front of lower.honed edge (k 117.67) but drawn first   3.25 px² (27.00 px² the other way), up to 2.54 nearer, at 419.8,538.8
+  cycle  undefined  lower.knife root (k 104.04) is in front of lower.knife pivot (k 104.06) but drawn first   120.94 px² (36.56 px² the other way), up to 9.04 nearer, at 411.0,550.8
+  cycle  undefined  lower.knife pivot (k 104.06) is in front of lower.actuator barrel (k 104.06) but drawn first   0.69 px² (10.19 px² the other way), up to 3.33 nearer, at 426.8,551.0
+  cycle  undefined  lower.knife root (k 104.04) is in front of lower.curved knife (k 113.22) but drawn first   21.75 px² (98.31 px² the other way), up to 9.58 nearer, at 420.8,548.3
+  cycle  undefined  lower.clevis pin (k 100.92) is in front of lower.actuator barrel (k 104.06) but drawn first   2.06 px² (11.06 px² the other way), up to 7.53 nearer, at 451.3,557.8
+  cycle  undefined  lower.rod (k 104.02) is in front of lower.clevis pin#2 (k 104.02) but drawn first   2.13 px² (4.56 px² the other way), up to 4.43 nearer, at 415.5,554.3
+  cycle  undefined  lower.knife pivot#2 (k 132.89) is in front of lower.curved knife#2 (k 134.38) but drawn first   27.00 px² (169.38 px² the other way), up to 3.42 nearer, at 524.5,569.3
+  cycle  undefined  lower.knife pivot#2 (k 132.89) is in front of lower.honed edge#2 (k 138.08) but drawn first   3.19 px² (4.63 px² the other way), up to 2.67 nearer, at 516.0,569.0
+  cycle  undefined  lower.knife root#2 (k 132.87) is in front of lower.knife pivot#2 (k 132.89) but drawn first   110.69 px² (40.38 px² the other way), up to 7.77 nearer, at 510.3,574.5
+  cycle  undefined  lower.knife pivot#2 (k 132.89) is in front of lower.clevis pin#4 (k 132.89) but drawn first   4.69 px² (15.50 px² the other way), up to 5.33 nearer, at 523.5,583.5
+  cycle  undefined  lower.knife root#2 (k 132.87) is in front of lower.curved knife#2 (k 134.38) but drawn first   27.88 px² (144.63 px² the other way), up to 3.61 nearer, at 524.5,574.0
+  cycle  undefined  measure.drum bracket (k 101.32) is in front of measure.drum shaft (k 102.17) but drawn first   4.06 px² (97.75 px² the other way), up to 4.24 nearer, at 446.3,508.3
+  cycle  undefined  measure.drum shaft#2 (k 133.19) is in front of measure.drum bracket#2 (k 133.19) but drawn first   32.06 px² (20.38 px² the other way), up to 3.98 nearer, at 494.5,523.3
+  cycle  undefined  measure.drum bracket#3 (k 130.13) is in front of measure.drum shaft#3 (k 137.38) but drawn first   4.00 px² (97.44 px² the other way), up to 4.49 nearer, at 446.3,423.8
+  cycle  undefined  measure.drum bracket#4 (k 153.14) is in front of measure.drum shaft#4 (k 157.75) but drawn first   20.13 px² (31.88 px² the other way), up to 6.97 nearer, at 501.8,434.8
+  cycle  undefined  measure.encoder enclosure (k 115.28) is in front of measure.measuring swing link (k 125.58) but drawn first   36.00 px² (90.88 px² the other way), up to 8.46 nearer, at 462.0,487.5
+  cycle  undefined  measure.clevis pin#2 (k 125.43) is in front of measure.rod (k 125.92) but drawn first   0.94 px² (0.75 px² the other way), up to 2.60 nearer, at 460.3,473.0
+  cycle  undefined  saw.guide bar (k 26.43) is in front of saw.motor housing (k 26.47) but drawn first   20.38 px² (159.69 px² the other way), up to 7.98 nearer, at 414.5,640.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.lower foot (k 48.73) but drawn first   264.94 px² (31.13 px² the other way), up to 29.43 nearer, at 471.8,544.0
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.upper crossmember (k 93.37) but drawn first   382.25 px² (227.75 px² the other way), up to 8.01 nearer, at 460.8,321.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.middle bridge (k 55.80) but drawn first   258.38 px² (30.56 px² the other way), up to 29.46 nearer, at 475.5,408.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek (k 45.67) but drawn first   365.31 px² (166.19 px² the other way), up to 25.42 nearer, at 483.5,545.8
+  cycle  undefined  frame.cheek fastener (k 45.69) is in front of frame.lower knife mounting lug (k 48.75) but drawn first   0.63 px² (12.63 px² the other way), up to 0.67 nearer, at 453.8,532.8
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot (k 48.73) but drawn first   182.00 px² (12.75 px² the other way), up to 32.97 nearer, at 471.8,544.0
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   43.88 px² (141.63 px² the other way), up to 8.03 nearer, at 563.3,566.3
+  cycle  undefined  frame.sculpted cheek#2 (k 77.54) is in front of frame.upper crossmember (k 93.37) but drawn first   511.19 px² (54.38 px² the other way), up to 21.25 nearer, at 565.0,356.3
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   251.44 px² (351.00 px² the other way), up to 3.54 nearer, at 535.5,558.5
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot#2 (k 36.63) but drawn first   49.56 px² (51.75 px² the other way), up to 15.90 nearer, at 551.5,558.3
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife pedestal#2 (k 77.58) but drawn first   1.38 px² (216.75 px² the other way), up to 5.38 nearer, at 553.8,576.8
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   52.81 px² (209.19 px² the other way), up to 7.97 nearer, at 558.3,574.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   1.94 px² (98.38 px² the other way), up to 3.41 nearer, at 545.5,561.8
+  cycle  undefined  frame.spine rib (k -3.55) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,531.5
+  cycle  undefined  frame.spine rib#2 (k 11.71) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.63 px² the other way), up to 11.90 nearer, at 534.8,506.0
+  cycle  undefined  frame.spine rib#3 (k 17.43) is in front of frame.rear spine (k 54.74) but drawn first   17.38 px² (267.69 px² the other way), up to 11.89 nearer, at 534.8,481.3
+  cycle  undefined  frame.spine rib#4 (k 27.92) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,456.5
+  cycle  undefined  frame.spine rib#5 (k 38.41) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.88 px² the other way), up to 11.90 nearer, at 534.8,430.5
+  cycle  undefined  frame.spine rib#6 (k 48.90) is in front of frame.rear spine (k 54.74) but drawn first   17.44 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,405.5
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#7 (k 59.38) but drawn first   267.88 px² (17.88 px² the other way), up to 16.47 nearer, at 528.0,374.0
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#8 (k 69.87) but drawn first   268.63 px² (17.63 px² the other way), up to 16.47 nearer, at 527.5,348.8
+  cycle  undefined  frame.rear mounting plate (k 11.71) is in front of frame.spine rib#2 (k 11.71) but drawn first   0.31 px² (110.81 px² the other way), up to 2.29 nearer, at 538.0,501.5
+  cycle  undefined  frame.rear mounting plate#2 (k 21.38) is in front of frame.spine rib#4 (k 27.92) but drawn first   0.31 px² (303.13 px² the other way), up to 2.29 nearer, at 538.5,451.3
+  cycle  undefined  frame.rear mounting plate#3 (k 54.72) is in front of frame.spine rib#7 (k 59.38) but drawn first   0.31 px² (231.38 px² the other way), up to 2.30 nearer, at 538.5,375.8
+  cycle  undefined  tilt.pivot cap (k -109.08) is in front of tilt.tilt upright (k -56.98) but drawn first   25.50 px² (23.06 px² the other way), up to 12.99 nearer, at 493.5,428.0
+  cycle  undefined  tilt.pivot cap (k -109.08) is in front of tilt.lower cross tie (k -56.96) but drawn first   6.94 px² (6.75 px² the other way), up to 9.38 nearer, at 492.3,425.5
+  cycle  undefined  tilt.pivot cap#2 (k -66.09) is in front of tilt.lower cross tie (k -56.96) but drawn first   42.13 px² (5.19 px² the other way), up to 14.23 nearer, at 588.8,440.0
+  cycle  undefined  rotator.body band (k 110.61) is in front of rotator.rotator body (k 114.86) but drawn first   81.81 px² (86.88 px² the other way), up to 4.74 nearer, at 507.3,183.0
+  cycle  undefined  rotator.body band#2 (k 113.60) is in front of rotator.rotator body (k 114.86) but drawn first   81.19 px² (86.69 px² the other way), up to 4.74 nearer, at 507.3,177.8
+  cycle  undefined  rotator.rotator body (k 114.86) is in front of rotator.body band#3 (k 119.97) but drawn first   86.81 px² (82.31 px² the other way), up to 10.71 nearer, at 518.5,152.8
+  cycle  undefined  rotator.body band#2 (k 113.60) is in front of rotator.motor fin#6 (k 118.03) but drawn first   0.50 px² (2.63 px² the other way), up to 3.30 nearer, at 507.0,175.3
+  cycle  undefined  rotator.motor fin#11 (k 103.26) is in front of rotator.body band#2 (k 113.60) but drawn first   0.31 px² (0.50 px² the other way), up to 1.84 nearer, at 545.5,167.8
+  cycle  undefined  rotator.motor fin#12 (k 113.57) is in front of rotator.body band#2 (k 113.60) but drawn first   1.13 px² (0.25 px² the other way), up to 5.59 nearer, at 549.5,170.5
+  cycle  undefined  rotator.upper neck (k 123.48) is in front of rotator.suspension ear (k 126.93) but drawn first   2.13 px² (34.13 px² the other way), up to 2.64 nearer, at 523.0,145.5
+  cycle  undefined  rotator.upper neck (k 123.48) is in front of rotator.suspension ear#2 (k 135.68) but drawn first   1.94 px² (70.13 px² the other way), up to 2.58 nearer, at 532.0,148.0
+  cycle  undefined  rotator.suspension ear (k 126.93) is in front of rotator.top cross pin (k 133.03) but drawn first   75.81 px² (21.19 px² the other way), up to 7.47 nearer, at 520.3,122.0
+  cycle  undefined  rotator.top cross pin (k 133.03) is in front of rotator.suspension ear#2 (k 135.68) but drawn first   14.38 px² (77.56 px² the other way), up to 3.89 nearer, at 544.5,126.3
+  cycle  undefined  feedL.drive motor (k 38.45) is in front of feedL.swing arm (k 41.35) but drawn first   88.19 px² (401.06 px² the other way), up to 20.98 nearer, at 298.5,416.8
+  cycle  undefined  feedL.swing arm (k 41.35) is in front of feedL.motor end flange (k 42.72) but drawn first   9.06 px² (304.25 px² the other way), up to 4.81 nearer, at 294.5,436.5
+  cycle  undefined  feedL.actuator support (k 39.10) is in front of feedL.swing arm (k 41.35) but drawn first   30.38 px² (66.88 px² the other way), up to 13.51 nearer, at 298.5,416.8
+  cycle  undefined  feedL.rod (k 33.75) is in front of feedL.drive motor (k 38.45) but drawn first   7.81 px² (8.19 px² the other way), up to 12.68 nearer, at 291.8,407.8
+  cycle  undefined  feedL.clevis pin#2 (k 32.15) is in front of feedL.drive motor (k 38.45) but drawn first   4.25 px² (33.56 px² the other way), up to 6.14 nearer, at 289.5,409.5
+  cycle  undefined  feedL.drive motor (k 38.45) is in front of feedL.actuator support (k 39.10) but drawn first   168.19 px² (48.81 px² the other way), up to 15.38 nearer, at 301.0,419.8
+  cycle  undefined  feedL.drum lip (k 46.45) is in front of feedL.roller drum (k 57.12) but drawn first   111.56 px² (1327.75 px² the other way), up to 4.47 nearer, at 319.3,456.5
+  cycle  undefined  feedL.roller drum (k 57.12) is in front of feedL.drum lip#2 (k 86.01) but drawn first   911.88 px² (342.38 px² the other way), up to 4.75 nearer, at 273.5,468.3
+  cycle  undefined  feedL.traction tooth#11 (k 32.10) is in front of feedL.drum lip (k 46.45) but drawn first   5.63 px² (2.38 px² the other way), up to 3.54 nearer, at 253.0,429.3
+  cycle  undefined  feedL.traction tooth#12 (k 28.05) is in front of feedL.drum lip (k 46.45) but drawn first   4.13 px² (2.31 px² the other way), up to 3.62 nearer, at 254.8,440.0
+  cycle  undefined  feedL.traction tooth#13 (k 25.93) is in front of feedL.drum lip (k 46.45) but drawn first   4.13 px² (2.81 px² the other way), up to 3.34 nearer, at 260.0,451.0
+  cycle  undefined  feedL.traction tooth#14 (k 25.96) is in front of feedL.drum lip (k 46.45) but drawn first   4.38 px² (2.88 px² the other way), up to 3.33 nearer, at 267.8,460.0
+  cycle  undefined  feedL.traction tooth#15 (k 28.12) is in front of feedL.drum lip (k 46.45) but drawn first   4.19 px² (2.31 px² the other way), up to 3.61 nearer, at 277.3,466.5
+  cycle  undefined  feedL.traction tooth#16 (k 32.21) is in front of feedL.drum lip (k 46.45) but drawn first   4.25 px² (1.25 px² the other way), up to 3.59 nearer, at 287.3,469.8
+  cycle  undefined  feedL.roller guard#7 (k 14.14) is in front of feedL.guard support#2 (k 21.74) but drawn first   2.81 px² (7.44 px² the other way), up to 1.18 nearer, at 262.5,453.8
+  cycle  undefined  feedL.actuator barrel (k 39.07) is in front of feedL.clevis pin (k 42.25) but drawn first   13.44 px² (9.25 px² the other way), up to 3.37 nearer, at 306.0,381.3
+  cycle  undefined  feedL.actuator barrel (k 39.07) is in front of feedL.actuator support (k 39.10) but drawn first   23.38 px² (96.81 px² the other way), up to 3.68 nearer, at 301.8,378.8
+  cycle  undefined  feedL.clevis pin#2 (k 32.15) is in front of feedL.rod (k 33.75) but drawn first   7.00 px² (4.19 px² the other way), up to 3.01 nearer, at 292.8,413.0
+  cycle  undefined  feedL.actuator support (k 39.10) is in front of feedL.clevis pin (k 42.25) but drawn first   16.50 px² (1.94 px² the other way), up to 3.87 nearer, at 306.0,381.3
+  cycle  undefined  feedR.swing arm (k 184.25) is in front of feedR.drive motor (k 196.54) but drawn first   197.31 px² (280.19 px² the other way), up to 6.85 nearer, at 660.0,489.0
+  cycle  undefined  feedR.swing arm (k 184.25) is in front of feedR.motor end flange (k 213.23) but drawn first   18.75 px² (501.00 px² the other way), up to 5.85 nearer, at 658.0,491.0
+  cycle  undefined  feedR.swing arm (k 184.25) is in front of feedR.actuator support (k 197.99) but drawn first   28.44 px² (110.81 px² the other way), up to 9.20 nearer, at 660.8,488.8
+  cycle  undefined  feedR.drive motor (k 196.54) is in front of feedR.guard support#2 (k 213.21) but drawn first   4.00 px² (40.19 px² the other way), up to 1.18 nearer, at 674.3,482.5
+  cycle  undefined  feedR.drive motor (k 196.54) is in front of feedR.rod (k 198.01) but drawn first   5.13 px² (18.44 px² the other way), up to 6.47 nearer, at 672.8,476.3
+  cycle  undefined  feedR.drive motor (k 196.54) is in front of feedR.clevis pin#2 (k 198.01) but drawn first   24.19 px² (10.44 px² the other way), up to 11.09 nearer, at 672.3,479.5
+  cycle  undefined  feedR.drive motor (k 196.54) is in front of feedR.actuator support (k 197.99) but drawn first   169.50 px² (41.31 px² the other way), up to 15.66 nearer, at 671.3,479.8
+  cycle  undefined  feedR.drum lip (k 213.23) is in front of feedR.roller drum (k 215.10) but drawn first   111.25 px² (1327.31 px² the other way), up to 4.47 nearer, at 688.8,520.8
+  cycle  undefined  feedR.roller drum (k 215.10) is in front of feedR.drum lip#2 (k 243.99) but drawn first   912.56 px² (343.44 px² the other way), up to 4.75 nearer, at 658.8,532.3
+  cycle  undefined  feedR.traction tooth#11 (k 190.09) is in front of feedR.drum lip (k 213.23) but drawn first   5.63 px² (1.31 px² the other way), up to 3.64 nearer, at 624.5,491.0
+  cycle  undefined  feedR.traction tooth#12 (k 186.03) is in front of feedR.drum lip (k 213.23) but drawn first   4.19 px² (2.13 px² the other way), up to 3.64 nearer, at 626.3,502.5
+  cycle  undefined  feedR.traction tooth#13 (k 183.92) is in front of feedR.drum lip (k 213.23) but drawn first   4.06 px² (2.88 px² the other way), up to 3.26 nearer, at 630.8,512.0
+  cycle  undefined  feedR.traction tooth#14 (k 183.94) is in front of feedR.drum lip (k 213.23) but drawn first   4.19 px² (3.06 px² the other way), up to 3.22 nearer, at 639.8,522.5
+  cycle  undefined  feedR.traction tooth#15 (k 186.10) is in front of feedR.drum lip (k 213.23) but drawn first   4.25 px² (2.19 px² the other way), up to 3.52 nearer, at 648.8,528.5
+  cycle  undefined  feedR.traction tooth#16 (k 190.19) is in front of feedR.drum lip (k 213.23) but drawn first   4.44 px² (1.38 px² the other way), up to 3.66 nearer, at 658.8,531.8
+  cycle  undefined  feedR.actuator barrel (k 197.99) is in front of feedR.actuator support (k 197.99) but drawn first   49.50 px² (25.63 px² the other way), up to 7.29 nearer, at 672.8,460.8
+  cycle  undefined  feedR.gland (k 196.29) is in front of feedR.actuator support (k 197.99) but drawn first   4.00 px² (3.38 px² the other way), up to 8.04 nearer, at 672.5,464.3
+  cycle  undefined  feedR.rod (k 198.01) is in front of feedR.clevis pin#2 (k 198.01) but drawn first   1.50 px² (7.31 px² the other way), up to 4.46 nearer, at 674.5,472.5
+  cycle  undefined  knifeL.knife pivot (k 144.07) is in front of knifeL.curved knife (k 171.80) but drawn first   38.75 px² (179.75 px² the other way), up to 5.02 nearer, at 335.5,318.8
+  cycle  undefined  knifeL.knife pivot (k 144.07) is in front of knifeL.honed edge (k 176.25) but drawn first   3.19 px² (26.69 px² the other way), up to 2.59 nearer, at 334.3,318.5
+  cycle  undefined  knifeL.knife pivot (k 144.07) is in front of knifeL.knife root (k 146.75) but drawn first   36.75 px² (121.31 px² the other way), up to 10.20 nearer, at 332.5,319.5
+  cycle  undefined  knifeL.actuator barrel (k 141.28) is in front of knifeL.knife pivot (k 144.07) but drawn first   10.19 px² (0.69 px² the other way), up to 5.93 nearer, at 343.0,336.3
+  cycle  undefined  knifeL.knife root (k 146.75) is in front of knifeL.curved knife (k 171.80) but drawn first   21.44 px² (98.56 px² the other way), up to 9.58 nearer, at 335.5,327.8
+  cycle  undefined  knifeL.actuator barrel (k 141.28) is in front of knifeL.clevis pin (k 143.13) but drawn first   11.06 px² (2.00 px² the other way), up to 4.80 nearer, at 365.0,333.5
+  cycle  undefined  knifeL.clevis pin#2 (k 137.26) is in front of knifeL.rod (k 138.20) but drawn first   4.50 px² (2.25 px² the other way), up to 2.85 nearer, at 328.3,335.0
+  cycle  undefined  knifeR.knife pivot (k 250.49) is in front of knifeR.curved knife (k 263.20) but drawn first   26.88 px² (169.63 px² the other way), up to 3.42 nearer, at 603.3,374.3
+  cycle  undefined  knifeR.knife pivot (k 250.49) is in front of knifeR.honed edge (k 266.83) but drawn first   3.06 px² (4.75 px² the other way), up to 2.47 nearer, at 595.5,373.3
+  cycle  undefined  knifeR.knife pivot (k 250.49) is in front of knifeR.knife root (k 252.80) but drawn first   40.50 px² (110.13 px² the other way), up to 10.97 nearer, at 594.0,375.5
+  cycle  undefined  knifeR.clevis pin#2 (k 248.97) is in front of knifeR.knife pivot (k 250.49) but drawn first   15.44 px² (4.38 px² the other way), up to 3.29 nearer, at 603.8,393.3
+  cycle  undefined  knifeR.knife root (k 252.80) is in front of knifeR.curved knife (k 263.20) but drawn first   27.88 px² (144.19 px² the other way), up to 3.61 nearer, at 603.3,379.0
+  cycle  undefined  lower.knife pivot (k 145.80) is in front of lower.curved knife (k 154.96) but drawn first   38.69 px² (179.69 px² the other way), up to 5.02 nearer, at 401.5,555.8
+  cycle  undefined  lower.knife pivot (k 145.80) is in front of lower.honed edge (k 159.41) but drawn first   3.25 px² (27.00 px² the other way), up to 2.54 nearer, at 400.5,553.0
+  cycle  undefined  lower.knife root (k 145.78) is in front of lower.knife pivot (k 145.80) but drawn first   120.94 px² (36.56 px² the other way), up to 9.04 nearer, at 391.8,565.0
+  cycle  undefined  lower.knife pivot (k 145.80) is in front of lower.actuator barrel (k 145.80) but drawn first   0.69 px² (10.19 px² the other way), up to 3.33 nearer, at 407.5,565.3
+  cycle  undefined  lower.knife root (k 145.78) is in front of lower.curved knife (k 154.96) but drawn first   21.75 px² (98.31 px² the other way), up to 9.58 nearer, at 401.5,562.5
+  cycle  undefined  lower.clevis pin (k 142.66) is in front of lower.actuator barrel (k 145.80) but drawn first   2.06 px² (11.06 px² the other way), up to 7.53 nearer, at 432.0,572.0
+  cycle  undefined  lower.rod (k 145.76) is in front of lower.clevis pin#2 (k 145.76) but drawn first   2.13 px² (4.56 px² the other way), up to 4.43 nearer, at 396.3,568.5
+  cycle  undefined  lower.knife pivot#2 (k 174.63) is in front of lower.curved knife#2 (k 176.12) but drawn first   27.00 px² (169.38 px² the other way), up to 3.42 nearer, at 505.3,583.5
+  cycle  undefined  lower.knife pivot#2 (k 174.63) is in front of lower.honed edge#2 (k 179.82) but drawn first   3.19 px² (4.63 px² the other way), up to 2.67 nearer, at 496.8,583.3
+  cycle  undefined  lower.knife root#2 (k 174.61) is in front of lower.knife pivot#2 (k 174.63) but drawn first   110.69 px² (40.38 px² the other way), up to 7.77 nearer, at 491.0,588.8
+  cycle  undefined  lower.knife pivot#2 (k 174.63) is in front of lower.clevis pin#4 (k 174.63) but drawn first   4.69 px² (15.50 px² the other way), up to 5.33 nearer, at 504.3,597.8
+  cycle  undefined  lower.knife root#2 (k 174.61) is in front of lower.curved knife#2 (k 176.12) but drawn first   27.88 px² (144.63 px² the other way), up to 3.61 nearer, at 505.3,588.3
+  cycle  undefined  measure.drum bracket (k 153.16) is in front of measure.drum shaft (k 154.01) but drawn first   4.06 px² (97.75 px² the other way), up to 4.24 nearer, at 423.8,518.3
+  cycle  undefined  measure.drum shaft#2 (k 185.03) is in front of measure.drum bracket#2 (k 185.03) but drawn first   32.06 px² (20.38 px² the other way), up to 3.98 nearer, at 472.0,533.3
+  cycle  undefined  measure.drum bracket#3 (k 181.98) is in front of measure.drum shaft#3 (k 189.22) but drawn first   4.00 px² (97.44 px² the other way), up to 4.49 nearer, at 423.8,433.8
+  cycle  undefined  measure.drum bracket#4 (k 204.98) is in front of measure.drum shaft#4 (k 209.59) but drawn first   20.13 px² (31.88 px² the other way), up to 6.97 nearer, at 479.3,444.8
+  cycle  undefined  measure.encoder enclosure (k 167.12) is in front of measure.measuring swing link (k 177.42) but drawn first   36.00 px² (90.88 px² the other way), up to 8.46 nearer, at 439.5,497.5
+  cycle  undefined  measure.clevis pin#2 (k 177.27) is in front of measure.rod (k 177.77) but drawn first   0.94 px² (0.75 px² the other way), up to 2.60 nearer, at 437.8,483.0
+  cycle  undefined  saw.guide bar (k 6.81) is in front of saw.motor housing (k 6.85) but drawn first   20.38 px² (159.69 px² the other way), up to 7.98 nearer, at 390.0,675.0
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.lower foot (k 48.73) but drawn first   264.94 px² (31.13 px² the other way), up to 29.43 nearer, at 471.8,544.0
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.upper crossmember (k 93.37) but drawn first   382.25 px² (227.75 px² the other way), up to 8.01 nearer, at 460.8,321.5
+  cycle  undefined  frame.sculpted cheek (k 45.67) is in front of frame.middle bridge (k 55.80) but drawn first   258.38 px² (30.56 px² the other way), up to 29.46 nearer, at 475.5,408.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek (k 45.67) but drawn first   365.31 px² (166.19 px² the other way), up to 25.42 nearer, at 483.5,545.8
+  cycle  undefined  frame.cheek fastener (k 45.69) is in front of frame.lower knife mounting lug (k 48.75) but drawn first   0.63 px² (12.63 px² the other way), up to 0.67 nearer, at 453.8,532.8
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot (k 48.73) but drawn first   182.00 px² (12.75 px² the other way), up to 32.97 nearer, at 471.8,544.0
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   43.88 px² (141.63 px² the other way), up to 8.03 nearer, at 563.3,566.3
+  cycle  undefined  frame.sculpted cheek#2 (k 77.54) is in front of frame.upper crossmember (k 93.37) but drawn first   511.19 px² (54.38 px² the other way), up to 21.25 nearer, at 565.0,356.3
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.sculpted cheek#2 (k 77.54) but drawn first   251.44 px² (351.00 px² the other way), up to 3.54 nearer, at 535.5,558.5
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower foot#2 (k 36.63) but drawn first   49.56 px² (51.75 px² the other way), up to 15.90 nearer, at 551.5,558.3
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife pedestal#2 (k 77.58) but drawn first   1.38 px² (216.75 px² the other way), up to 5.38 nearer, at 553.8,576.8
+  cycle  undefined  frame.lower foot#2 (k 36.63) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   52.81 px² (209.19 px² the other way), up to 7.97 nearer, at 558.3,574.0
+  cycle  undefined  frame.lower bridge (k 9.52) is in front of frame.lower knife mounting lug#2 (k 77.56) but drawn first   1.94 px² (98.38 px² the other way), up to 3.41 nearer, at 545.5,561.8
+  cycle  undefined  frame.spine rib (k -3.55) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,531.5
+  cycle  undefined  frame.spine rib#2 (k 11.71) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.63 px² the other way), up to 11.90 nearer, at 534.8,506.0
+  cycle  undefined  frame.spine rib#3 (k 17.43) is in front of frame.rear spine (k 54.74) but drawn first   17.38 px² (267.69 px² the other way), up to 11.89 nearer, at 534.8,481.3
+  cycle  undefined  frame.spine rib#4 (k 27.92) is in front of frame.rear spine (k 54.74) but drawn first   17.69 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,456.5
+  cycle  undefined  frame.spine rib#5 (k 38.41) is in front of frame.rear spine (k 54.74) but drawn first   17.50 px² (267.88 px² the other way), up to 11.90 nearer, at 534.8,430.5
+  cycle  undefined  frame.spine rib#6 (k 48.90) is in front of frame.rear spine (k 54.74) but drawn first   17.44 px² (267.56 px² the other way), up to 11.89 nearer, at 534.8,405.5
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#7 (k 59.38) but drawn first   267.88 px² (17.88 px² the other way), up to 16.47 nearer, at 528.0,374.0
+  cycle  undefined  frame.rear spine (k 54.74) is in front of frame.spine rib#8 (k 69.87) but drawn first   268.63 px² (17.63 px² the other way), up to 16.47 nearer, at 527.5,348.8
+  cycle  undefined  frame.rear mounting plate (k 11.71) is in front of frame.spine rib#2 (k 11.71) but drawn first   0.31 px² (110.81 px² the other way), up to 2.29 nearer, at 538.0,501.5
+  cycle  undefined  frame.rear mounting plate#2 (k 21.38) is in front of frame.spine rib#4 (k 27.92) but drawn first   0.31 px² (303.13 px² the other way), up to 2.29 nearer, at 538.5,451.3
+  cycle  undefined  frame.rear mounting plate#3 (k 54.72) is in front of frame.spine rib#7 (k 59.38) but drawn first   0.31 px² (231.38 px² the other way), up to 2.30 nearer, at 538.5,375.8
+  cycle  undefined  tilt.pivot cap (k -126.19) is in front of tilt.tilt upright (k -74.09) but drawn first   25.50 px² (23.06 px² the other way), up to 12.99 nearer, at 496.8,411.0
+  cycle  undefined  tilt.pivot cap (k -126.19) is in front of tilt.lower cross tie (k -74.07) but drawn first   6.94 px² (6.75 px² the other way), up to 9.38 nearer, at 495.5,408.5
+  cycle  undefined  tilt.pivot cap#2 (k -83.19) is in front of tilt.lower cross tie (k -74.07) but drawn first   42.13 px² (5.19 px² the other way), up to 14.23 nearer, at 592.0,423.0
+  cycle  undefined  rotator.body band (k 119.49) is in front of rotator.rotator body (k 123.74) but drawn first   81.81 px² (86.88 px² the other way), up to 4.74 nearer, at 507.3,161.8
+  cycle  undefined  rotator.body band#2 (k 122.48) is in front of rotator.rotator body (k 123.74) but drawn first   81.19 px² (86.69 px² the other way), up to 4.74 nearer, at 507.3,156.5
+  cycle  undefined  rotator.rotator body (k 123.74) is in front of rotator.body band#3 (k 128.85) but drawn first   86.81 px² (82.31 px² the other way), up to 10.71 nearer, at 518.5,131.5
+  cycle  undefined  rotator.body band#2 (k 122.48) is in front of rotator.motor fin#6 (k 126.90) but drawn first   0.50 px² (2.63 px² the other way), up to 3.30 nearer, at 507.0,154.0
+  cycle  undefined  rotator.motor fin#11 (k 112.14) is in front of rotator.body band#2 (k 122.48) but drawn first   0.31 px² (0.50 px² the other way), up to 1.84 nearer, at 545.5,146.5
+  cycle  undefined  rotator.motor fin#12 (k 122.44) is in front of rotator.body band#2 (k 122.48) but drawn first   1.13 px² (0.25 px² the other way), up to 5.59 nearer, at 549.5,149.3
+  cycle  undefined  rotator.upper neck (k 132.35) is in front of rotator.suspension ear (k 135.81) but drawn first   2.13 px² (34.13 px² the other way), up to 2.64 nearer, at 523.0,124.3
+  cycle  undefined  rotator.upper neck (k 132.35) is in front of rotator.suspension ear#2 (k 144.56) but drawn first   1.94 px² (70.13 px² the other way), up to 2.58 nearer, at 532.0,126.8
+  cycle  undefined  rotator.suspension ear (k 135.81) is in front of rotator.top cross pin (k 141.91) but drawn first   75.81 px² (21.19 px² the other way), up to 7.47 nearer, at 520.3,100.8
+  cycle  undefined  rotator.top cross pin (k 141.91) is in front of rotator.suspension ear#2 (k 144.56) but drawn first   14.38 px² (77.56 px² the other way), up to 3.89 nearer, at 544.5,105.0
+  cycle  undefined  feedL.drive motor (k 33.38) is in front of feedL.swing arm (k 36.28) but drawn first   88.19 px² (401.06 px² the other way), up to 20.98 nearer, at 276.3,414.8
+  cycle  undefined  feedL.swing arm (k 36.28) is in front of feedL.motor end flange (k 37.65) but drawn first   9.06 px² (304.25 px² the other way), up to 4.81 nearer, at 272.3,434.5
+  cycle  undefined  feedL.actuator support (k 34.03) is in front of feedL.swing arm (k 36.28) but drawn first   30.38 px² (66.88 px² the other way), up to 13.51 nearer, at 276.3,414.8
+  cycle  undefined  feedL.rod (k 28.67) is in front of feedL.drive motor (k 33.38) but drawn first   7.81 px² (8.19 px² the other way), up to 12.68 nearer, at 269.5,405.8
+  cycle  undefined  feedL.clevis pin#2 (k 27.07) is in front of feedL.drive motor (k 33.38) but drawn first   4.25 px² (33.56 px² the other way), up to 6.14 nearer, at 267.3,407.5
+  cycle  undefined  feedL.drive motor (k 33.38) is in front of feedL.actuator support (k 34.03) but drawn first   168.19 px² (48.81 px² the other way), up to 15.38 nearer, at 278.8,417.8
+  cycle  undefined  feedL.drum lip (k 41.37) is in front of feedL.roller drum (k 52.05) but drawn first   111.56 px² (1327.75 px² the other way), up to 4.47 nearer, at 297.0,454.5
+  cycle  undefined  feedL.roller drum (k 52.05) is in front of feedL.drum lip#2 (k 80.93) but drawn first   911.88 px² (342.38 px² the other way), up to 4.75 nearer, at 251.3,466.3
+  cycle  undefined  feedL.traction tooth#11 (k 27.03) is in front of feedL.drum lip (k 41.37) but drawn first   5.63 px² (2.38 px² the other way), up to 3.54 nearer, at 230.8,427.3
+  cycle  undefined  feedL.traction tooth#12 (k 22.98) is in front of feedL.drum lip (k 41.37) but drawn first   4.13 px² (2.31 px² the other way), up to 3.62 nearer, at 232.5,438.0
+  cycle  undefined  feedL.traction tooth#13 (k 20.86) is in front of feedL.drum lip (k 41.37) but drawn first   4.13 px² (2.81 px² the other way), up to 3.34 nearer, at 237.8,449.0
+  cycle  undefined  feedL.traction tooth#14 (k 20.88) is in front of feedL.drum lip (k 41.37) but drawn first   4.38 px² (2.88 px² the other way), up to 3.33 nearer, at 245.5,458.0
+  cycle  undefined  feedL.traction tooth#15 (k 23.04) is in front of feedL.drum lip (k 41.37) but drawn first   4.19 px² (2.31 px² the other way), up to 3.61 nearer, at 255.0,464.5
+  cycle  undefined  feedL.traction tooth#16 (k 27.13) is in front of feedL.drum lip (k 41.37) but drawn first   4.25 px² (1.25 px² the other way), up to 3.59 nearer, at 265.0,467.8
+  cycle  undefined  feedL.roller guard#7 (k 9.06) is in front of feedL.guard support#2 (k 16.67) but drawn first   2.81 px² (7.44 px² the other way), up to 1.18 nearer, at 240.3,451.8
+  cycle  undefined  feedL.actuator barrel (k 34.00) is in front of feedL.clevis pin (k 37.18) but drawn first   13.44 px² (9.25 px² the other way), up to 3.37 nearer, at 283.8,379.3
+  cycle  undefined  feedL.actuator barrel (k 34.00) is in front of feedL.actuator support (k 34.03) but drawn first   23.38 px² (96.81 px² the other way), up to 3.68 nearer, at 279.5,376.8
+  cycle  undefined  feedL.clevis pin#2 (k 27.07) is in front of feedL.rod (k 28.67) but drawn first   7.00 px² (4.19 px² the other way), up to 3.01 nearer, at 270.5,411.0
+  cycle  undefined  feedL.actuator support (k 34.03) is in front of feedL.clevis pin (k 37.18) but drawn first   16.50 px² (1.94 px² the other way), up to 3.87 nearer, at 283.8,379.3
+  cycle  undefined  feedR.swing arm (k 196.93) is in front of feedR.drive motor (k 209.23) but drawn first   197.31 px² (280.19 px² the other way), up to 6.85 nearer, at 679.3,494.0
+  cycle  undefined  feedR.swing arm (k 196.93) is in front of feedR.motor end flange (k 225.91) but drawn first   18.75 px² (501.00 px² the other way), up to 5.85 nearer, at 677.3,496.0
+  cycle  undefined  feedR.swing arm (k 196.93) is in front of feedR.actuator support (k 210.68) but drawn first   28.44 px² (110.81 px² the other way), up to 9.20 nearer, at 680.0,493.8
+  cycle  undefined  feedR.drive motor (k 209.23) is in front of feedR.guard support#2 (k 225.89) but drawn first   4.00 px² (40.19 px² the other way), up to 1.18 nearer, at 693.5,487.5
+  cycle  undefined  feedR.drive motor (k 209.23) is in front of feedR.rod (k 210.70) but drawn first   5.13 px² (18.44 px² the other way), up to 6.47 nearer, at 692.0,481.3
+  cycle  undefined  feedR.drive motor (k 209.23) is in front of feedR.clevis pin#2 (k 210.70) but drawn first   24.19 px² (10.44 px² the other way), up to 11.09 nearer, at 691.5,484.5
+  cycle  undefined  feedR.drive motor (k 209.23) is in front of feedR.actuator support (k 210.68) but drawn first   169.50 px² (41.31 px² the other way), up to 15.66 nearer, at 690.5,484.8
+  cycle  undefined  feedR.drum lip (k 225.91) is in front of feedR.roller drum (k 227.78) but drawn first   111.25 px² (1327.31 px² the other way), up to 4.47 nearer, at 708.0,525.8
+  cycle  undefined  feedR.roller drum (k 227.78) is in front of feedR.drum lip#2 (k 256.67) but drawn first   912.56 px² (343.44 px² the other way), up to 4.75 nearer, at 678.0,537.3
+  cycle  undefined  feedR.traction tooth#11 (k 202.77) is in front of feedR.drum lip (k 225.91) but drawn first   5.63 px² (1.31 px² the other way), up to 3.64 nearer, at 643.8,496.0
+  cycle  undefined  feedR.traction tooth#12 (k 198.72) is in front of feedR.drum lip (k 225.91) but drawn first   4.19 px² (2.13 px² the other way), up to 3.64 nearer, at 645.5,507.5
+  cycle  undefined  feedR.traction tooth#13 (k 196.60) is in front of feedR.drum lip (k 225.91) but drawn first   4.06 px² (2.88 px² the other way), up to 3.26 nearer, at 650.0,517.0
+  cycle  undefined  feedR.traction tooth#14 (k 196.62) is in front of feedR.drum lip (k 225.91) but drawn first   4.19 px² (3.06 px² the other way), up to 3.22 nearer, at 659.0,527.5
+  cycle  undefined  feedR.traction tooth#15 (k 198.78) is in front of feedR.drum lip (k 225.91) but drawn first   4.25 px² (2.19 px² the other way), up to 3.52 nearer, at 668.0,533.5
+  cycle  undefined  feedR.traction tooth#16 (k 202.87) is in front of feedR.drum lip (k 225.91) but drawn first   4.44 px² (1.38 px² the other way), up to 3.66 nearer, at 678.0,536.8
+  cycle  undefined  feedR.actuator barrel (k 210.68) is in front of feedR.actuator support (k 210.68) but drawn first   49.50 px² (25.63 px² the other way), up to 7.29 nearer, at 692.0,465.8
+  cycle  undefined  feedR.gland (k 208.97) is in front of feedR.actuator support (k 210.68) but drawn first   4.00 px² (3.38 px² the other way), up to 8.04 nearer, at 691.8,469.3
+  cycle  undefined  feedR.rod (k 210.70) is in front of feedR.clevis pin#2 (k 210.70) but drawn first   1.50 px² (7.31 px² the other way), up to 4.46 nearer, at 693.8,477.5
+  cycle  undefined  knifeL.knife pivot (k 152.93) is in front of knifeL.curved knife (k 180.66) but drawn first   38.75 px² (179.75 px² the other way), up to 5.02 nearer, at 315.0,310.8
+  cycle  undefined  knifeL.knife pivot (k 152.93) is in front of knifeL.honed edge (k 185.11) but drawn first   3.19 px² (26.69 px² the other way), up to 2.59 nearer, at 313.8,310.5
+  cycle  undefined  knifeL.knife pivot (k 152.93) is in front of knifeL.knife root (k 155.62) but drawn first   36.75 px² (121.31 px² the other way), up to 10.20 nearer, at 312.0,311.5
+  cycle  undefined  knifeL.actuator barrel (k 150.14) is in front of knifeL.knife pivot (k 152.93) but drawn first   10.19 px² (0.69 px² the other way), up to 5.93 nearer, at 322.5,328.3
+  cycle  undefined  knifeL.knife root (k 155.62) is in front of knifeL.curved knife (k 180.66) but drawn first   21.44 px² (98.56 px² the other way), up to 9.58 nearer, at 315.0,319.8
+  cycle  undefined  knifeL.actuator barrel (k 150.14) is in front of knifeL.clevis pin (k 151.99) but drawn first   11.06 px² (2.00 px² the other way), up to 4.80 nearer, at 344.5,325.5
+  cycle  undefined  knifeL.clevis pin#2 (k 146.13) is in front of knifeL.rod (k 147.07) but drawn first   4.50 px² (2.25 px² the other way), up to 2.85 nearer, at 307.8,327.0
+  cycle  undefined  knifeR.knife pivot (k 273.27) is in front of knifeR.curved knife (k 285.97) but drawn first   26.88 px² (169.63 px² the other way), up to 3.42 nearer, at 613.8,370.5
+  cycle  undefined  knifeR.knife pivot (k 273.27) is in front of knifeR.honed edge (k 289.61) but drawn first   3.06 px² (4.75 px² the other way), up to 2.47 nearer, at 606.0,369.5
+  cycle  undefined  knifeR.knife pivot (k 273.27) is in front of knifeR.knife root (k 275.57) but drawn first   40.50 px² (110.13 px² the other way), up to 10.97 nearer, at 604.5,371.8
+  cycle  undefined  knifeR.clevis pin#2 (k 271.74) is in front of knifeR.knife pivot (k 273.27) but drawn first   15.44 px² (4.38 px² the other way), up to 3.29 nearer, at 614.3,389.5
+  cycle  undefined  knifeR.knife root (k 275.57) is in front of knifeR.curved knife (k 285.97) but drawn first   27.88 px² (144.19 px² the other way), up to 3.61 nearer, at 613.8,375.3
+  cycle  undefined  lower.knife pivot (k 165.06) is in front of lower.curved knife (k 174.22) but drawn first   38.69 px² (179.69 px² the other way), up to 5.02 nearer, at 392.8,562.5
+  cycle  undefined  lower.knife pivot (k 165.06) is in front of lower.honed edge (k 178.67) but drawn first   3.25 px² (27.00 px² the other way), up to 2.54 nearer, at 391.8,559.8
+  cycle  undefined  lower.knife root (k 165.04) is in front of lower.knife pivot (k 165.06) but drawn first   120.94 px² (36.56 px² the other way), up to 9.04 nearer, at 383.0,571.8
+  cycle  undefined  lower.knife pivot (k 165.06) is in front of lower.actuator barrel (k 165.06) but drawn first   0.69 px² (10.19 px² the other way), up to 3.33 nearer, at 398.8,572.0
+  cycle  undefined  lower.knife root (k 165.04) is in front of lower.curved knife (k 174.22) but drawn first   21.75 px² (98.31 px² the other way), up to 9.58 nearer, at 392.8,569.3
+  cycle  undefined  lower.clevis pin (k 161.92) is in front of lower.actuator barrel (k 165.06) but drawn first   2.06 px² (11.06 px² the other way), up to 7.53 nearer, at 423.3,578.8
+  cycle  undefined  lower.rod (k 165.02) is in front of lower.clevis pin#2 (k 165.02) but drawn first   2.13 px² (4.56 px² the other way), up to 4.43 nearer, at 387.5,575.3
+  cycle  undefined  lower.knife pivot#2 (k 193.89) is in front of lower.curved knife#2 (k 195.37) but drawn first   27.00 px² (169.38 px² the other way), up to 3.42 nearer, at 496.5,590.3
+  cycle  undefined  lower.knife pivot#2 (k 193.89) is in front of lower.honed edge#2 (k 199.07) but drawn first   3.19 px² (4.63 px² the other way), up to 2.67 nearer, at 488.0,590.0
+  cycle  undefined  lower.knife root#2 (k 193.87) is in front of lower.knife pivot#2 (k 193.89) but drawn first   110.69 px² (40.38 px² the other way), up to 7.77 nearer, at 482.3,595.5
+  cycle  undefined  lower.knife pivot#2 (k 193.89) is in front of lower.clevis pin#4 (k 193.89) but drawn first   4.69 px² (15.50 px² the other way), up to 5.33 nearer, at 495.5,604.5
+  cycle  undefined  lower.knife root#2 (k 193.87) is in front of lower.curved knife#2 (k 195.37) but drawn first   27.88 px² (144.63 px² the other way), up to 3.61 nearer, at 496.5,595.0
+  cycle  undefined  measure.drum bracket (k 177.90) is in front of measure.drum shaft (k 178.75) but drawn first   4.06 px² (97.75 px² the other way), up to 4.24 nearer, at 413.0,523.3
+  cycle  undefined  measure.drum shaft#2 (k 209.77) is in front of measure.drum bracket#2 (k 209.77) but drawn first   32.06 px² (20.38 px² the other way), up to 3.98 nearer, at 461.3,538.3
+  cycle  undefined  measure.drum bracket#3 (k 206.71) is in front of measure.drum shaft#3 (k 213.96) but drawn first   4.00 px² (97.44 px² the other way), up to 4.49 nearer, at 413.0,438.8
+  cycle  undefined  measure.drum bracket#4 (k 229.72) is in front of measure.drum shaft#4 (k 234.33) but drawn first   20.13 px² (31.88 px² the other way), up to 6.97 nearer, at 468.5,449.8
+  cycle  undefined  measure.encoder enclosure (k 191.86) is in front of measure.measuring swing link (k 202.16) but drawn first   36.00 px² (90.88 px² the other way), up to 8.46 nearer, at 428.8,502.5
+  cycle  undefined  measure.clevis pin#2 (k 202.01) is in front of measure.rod (k 202.50) but drawn first   0.94 px² (0.75 px² the other way), up to 2.60 nearer, at 427.0,488.0
+  cycle  undefined  saw.guide bar (k -2.47) is in front of saw.motor housing (k -2.43) but drawn first   20.38 px² (159.69 px² the other way), up to 7.98 nearer, at 378.5,691.3
+through in mid-flight: 0 pairs
+self-overlap: 0 chunks whose outline crosses itself on screen
+wobble: 0 smoothed profiles whose slope turns between its ends
+saddles off their host apart: 0
+stand-in shapes: 0 items whose recorded shape covers too little of what it draws
+crowding: 0 pairs where a bend or end touches another line on screen
+audit · 0 tubes · 665 solids · 665 items · 5 depth states · 10522 overlaps · 3139 order rules · 25.9 s
+audit failed: 525 problems
+Built index.html · 11 assemblies · 665 solid parts · 1741 KiB

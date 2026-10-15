@@ -1,0 +1,14 @@
+eval: {"error":null,"reduced":true}
+shot shots/process-mobile-initial.png · readout "01 张开入位 · 0.0 / 31 s"
+eval: {"staticStep":1}
+eval: undefined
+eval: {"touch":"feedR"}
+eval: {"scrollIgnored":true}
+eval: undefined
+shot shots/process-mobile-cut.png · readout "05 第一段锯切 · 14.1 / 31 s"
+eval: undefined
+shot shots/process-mobile-finished.png · readout "09 释放余料 · 31.0 / 31 s · 完成"
+eval: {"steps":9,"overflow":false}
+eval: undefined
+eval: {"structureRestored":true}
+console: clean

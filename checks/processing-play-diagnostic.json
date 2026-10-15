@@ -1,0 +1,5 @@
+[
+["eval","h7Demo.processing.setMode('processing');h7Demo.processing.seek(0);window.playFrames=0;const record=()=>{playFrames++;if(!h7Demo.processing.getState().ended)requestAnimationFrame(record);};requestAnimationFrame(record);h7Demo.processing.play();void 0"],
+["wait",35000],
+["eval","(()=>{const s=h7Demo.processing.getState();return {time:s.time,playing:s.playing,requested:s.requestedPlaying,rate:s.rate,ended:s.ended,error:s.error,hidden:document.hidden,frames:playFrames,bounds:document.querySelector('#stage').getBoundingClientRect().toJSON()}})()"]
+]

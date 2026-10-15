@@ -1,0 +1,140 @@
+{
+  "browser": "Headless Edge",
+  "viewport": [
+    1100,
+    1250
+  ],
+  "method": "120 equally spaced poses over assembled/apart/assembled, requestAnimationFrame",
+  "results": [
+    {
+      "name": "before",
+      "dpr": 1,
+      "renderer": {
+        "type": "svg"
+      },
+      "nodes": 12702,
+      "frames": 120,
+      "elapsedMs": 11268.800000000745,
+      "fps": 10.564630681818182,
+      "frameMedianMs": 83.30000000000018,
+      "frameP95Ms": 152.89999999999964,
+      "over33ms": 118,
+      "jsMedianMs": 0.19999999925494194,
+      "jsP95Ms": 16.5,
+      "metrics": {
+        "LayoutDuration": 3.956,
+        "RecalcStyleDuration": 1.3739,
+        "ScriptDuration": 0.4096,
+        "TaskDuration": 9.2593
+      }
+    },
+    {
+      "name": "after",
+      "dpr": 1,
+      "renderer": {
+        "type": "canvas",
+        "assemblies": 11,
+        "texturePixels": 4233872,
+        "density": 2,
+        "opaqueCorners": 0,
+        "prepareMs": 2734.099999997765
+      },
+      "nodes": 48,
+      "frames": 120,
+      "elapsedMs": 952.5,
+      "fps": 125.07883119613206,
+      "frameMedianMs": 6.900000000000546,
+      "frameP95Ms": 14.099999999999909,
+      "over33ms": 1,
+      "jsMedianMs": 0.19999999925494194,
+      "jsP95Ms": 0.30000000074505806,
+      "metrics": {
+        "LayoutDuration": 0.0141,
+        "RecalcStyleDuration": 0.0036,
+        "ScriptDuration": 0.0343,
+        "TaskDuration": 0.757
+      }
+    },
+    {
+      "name": "after-selection",
+      "dpr": 1,
+      "renderer": {
+        "type": "canvas",
+        "assemblies": 11,
+        "texturePixels": 4233872,
+        "density": 2,
+        "opaqueCorners": 0,
+        "prepareMs": 2172.099999997765
+      },
+      "nodes": 48,
+      "frames": 120,
+      "elapsedMs": 1142,
+      "fps": 104.48678549477569,
+      "frameMedianMs": 7,
+      "frameP95Ms": 20.899999999999636,
+      "over33ms": 1,
+      "jsMedianMs": 0.19999999925494194,
+      "jsP95Ms": 0.30000000074505806,
+      "metrics": {
+        "LayoutDuration": 0.1086,
+        "RecalcStyleDuration": 0.0335,
+        "ScriptDuration": 0.0303,
+        "TaskDuration": 1.0117
+      }
+    },
+    {
+      "name": "after-hidpi",
+      "dpr": 2,
+      "renderer": {
+        "type": "canvas",
+        "assemblies": 11,
+        "texturePixels": 4233872,
+        "density": 2,
+        "opaqueCorners": 0,
+        "prepareMs": 2269.699999999255
+      },
+      "nodes": 48,
+      "frames": 120,
+      "elapsedMs": 835.1000000014901,
+      "fps": 142.78857691384695,
+      "frameMedianMs": 6.900000000000091,
+      "frameP95Ms": 7,
+      "over33ms": 0,
+      "jsMedianMs": 0.19999999925494194,
+      "jsP95Ms": 0.30000000074505806,
+      "metrics": {
+        "LayoutDuration": 0.0189,
+        "RecalcStyleDuration": 0.0023,
+        "ScriptDuration": 0.0364,
+        "TaskDuration": 0.2137
+      }
+    },
+    {
+      "name": "after-light",
+      "dpr": 1,
+      "renderer": {
+        "type": "canvas",
+        "assemblies": 11,
+        "texturePixels": 4233872,
+        "density": 2,
+        "opaqueCorners": 0,
+        "prepareMs": 3546.10000000149
+      },
+      "nodes": 48,
+      "frames": 120,
+      "elapsedMs": 839.5,
+      "fps": 141.61608949184813,
+      "frameMedianMs": 6.900000000000546,
+      "frameP95Ms": 7.399999999999636,
+      "over33ms": 0,
+      "jsMedianMs": 0.19999999925494194,
+      "jsP95Ms": 0.30000000074505806,
+      "metrics": {
+        "LayoutDuration": 0.0183,
+        "RecalcStyleDuration": 0.0025,
+        "ScriptDuration": 0.0337,
+        "TaskDuration": 0.2103
+      }
+    }
+  ]
+}

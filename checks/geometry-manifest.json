@@ -1,0 +1,126 @@
+{
+  "assemblies": [
+    {
+      "id": "frame",
+      "name": "主机架",
+      "move": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "rotator",
+      "name": "吊架与回转器",
+      "move": [
+        0,
+        0,
+        115
+      ]
+    },
+    {
+      "id": "tilt",
+      "name": "倾转架与油缸",
+      "move": [
+        -30,
+        -110,
+        50
+      ]
+    },
+    {
+      "id": "cover",
+      "name": "上部防护罩",
+      "move": [
+        90,
+        -140,
+        40
+      ]
+    },
+    {
+      "id": "feedL",
+      "name": "左送料辊总成",
+      "move": [
+        -135,
+        25,
+        0
+      ]
+    },
+    {
+      "id": "feedR",
+      "name": "右送料辊总成",
+      "move": [
+        135,
+        25,
+        0
+      ]
+    },
+    {
+      "id": "knifeL",
+      "name": "左上打枝刀",
+      "move": [
+        -110,
+        85,
+        70
+      ]
+    },
+    {
+      "id": "knifeR",
+      "name": "右上打枝刀",
+      "move": [
+        110,
+        85,
+        75
+      ]
+    },
+    {
+      "id": "lower",
+      "name": "下部打枝刀组",
+      "move": [
+        0,
+        135,
+        5
+      ]
+    },
+    {
+      "id": "measure",
+      "name": "中央辊与测长组件",
+      "move": [
+        0,
+        145,
+        25
+      ]
+    },
+    {
+      "id": "saw",
+      "name": "链锯总成",
+      "move": [
+        -65,
+        15,
+        -105
+      ]
+    }
+  ],
+  "solids": 846,
+  "projection": {
+    "origin": [
+      503.9427232182092,
+      593.1368899161312
+    ],
+    "scale": 0.7663426547264981,
+    "azimuth": 66,
+    "elevation": 22
+  },
+  "partsByAssembly": {
+    "frame": 79,
+    "rotator": 34,
+    "tilt": 34,
+    "cover": 10,
+    "feedL": 116,
+    "feedR": 116,
+    "knifeL": 24,
+    "knifeR": 24,
+    "lower": 44,
+    "measure": 262,
+    "saw": 103
+  }
+}

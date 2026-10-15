@@ -1,0 +1,24 @@
+[
+  [
+    "eval",
+    "window.visibilityHistory=[];document.addEventListener('visibilitychange',()=>visibilityHistory.push({at:performance.now(),hidden:document.hidden}));new IntersectionObserver(e=>visibilityHistory.push({at:performance.now(),intersection:e.at(-1).isIntersecting,rect:e.at(-1).boundingClientRect.toJSON()}),{rootMargin:'120px'}).observe(document.querySelector('#stage'));h7Demo.processing.setMode('processing');h7Demo.processing.seek(0);window.playFrames=0;window.playTimes=[];window.previousStep=-1;const record=()=>{const s=h7Demo.processing.getState();playFrames++;if(s.step!==previousStep){playTimes.push({step:s.step,time:s.time,cuts:s.cuts});previousStep=s.step;}if(!s.ended)requestAnimationFrame(record);};requestAnimationFrame(record);window.playStarted=performance.now();h7Demo.processing.play();void 0"
+  ],
+  [
+    "wait",
+    35000
+  ],
+  [
+    "eval",
+    "(()=>{const s=h7Demo.processing.getState();return {time:s.time,playing:s.playing,requested:s.requestedPlaying,ended:s.ended,error:s.error,hidden:document.hidden,mode:s.mode,visibility:visibilityHistory,rect:document.querySelector('#stage').getBoundingClientRect().toJSON(),steps:playTimes}})()"
+  ],
+  [
+    "eval",
+    "(()=>{const s=h7Demo.processing.getState(),elapsed=(performance.now()-playStarted)/1000;if(playTimes.length!==9||s.cuts!==2||s.playing||s.error)throw new Error('incomplete playthrough');return {elapsedSeconds:elapsed,observedFrames:playFrames,observedFps:playFrames/elapsed,steps:playTimes,ended:s.ended,pieces:s.pieces.length}})()"
+  ],
+  [
+    "shot",
+    "shots/process-playthrough-finished-dark.png",
+    ".h7",
+    1
+  ]
+]

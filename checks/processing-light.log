@@ -1,0 +1,14 @@
+eval: undefined
+shot shots/process-light-grip.png · readout "02 夹紧 · 4.7 / 31 s"
+eval: undefined
+shot shots/process-light-cutting.png · readout "05 第一段锯切 · 13.4 / 31 s"
+shot shots/process-light-cutting-close.png · readout "05 第一段锯切 · 13.4 / 31 s"
+eval: undefined
+shot shots/process-light-through.png · readout "05 第一段锯切 · 14.8 / 31 s"
+eval: undefined
+shot shots/process-light-return.png · readout "06 回锯分离 · 16.1 / 31 s"
+eval: undefined
+shot shots/process-light-second.png · readout "08 第二段锯切 · 25.8 / 31 s"
+eval: undefined
+shot shots/process-light-finished.png · readout "09 释放余料 · 31.0 / 31 s · 完成"
+console: clean

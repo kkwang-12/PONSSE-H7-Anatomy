@@ -1,0 +1,11 @@
+eval: {"parts":853,"tags":11,"theme":"dark"}
+shot shots/mono-assembled-dark.png · readout "已组装 · 11 个总成"
+eval: {"hoverExpanded":1}
+shot shots/mono-exploded-dark.png · readout "已展开 · 11 个总成"
+eval: {"leaveReset":0}
+eval: {"labelSelected":"saw","caption":"链锯总成：底部链锯包括导板、锯链、驱动壳体、轴承盖和张紧机构。轴承盖与张紧活塞参考 CT+ 零件图作结构示意，未模拟真实锯切动作。"}
+shot shots/mono-selected-dark.png · readout "11 链锯总成"
+eval: {"keyboardLast":"saw"}
+eval: {"manualPin":true}
+eval: {"reset":true,"overflow":false}
+console: clean

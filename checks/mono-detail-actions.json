@@ -1,0 +1,11 @@
+[
+  ["eval", "h7Demo.select(null);h7Demo.target(0)"],
+  ["until", "h7Demo.state.progress===0"],
+  ["shot", "shots/mono-detail-assembled.png", "#stage", 4, [190, 20, 550, 840]],
+  ["lines", "shots/mono-lines-assembled.png", "#stage"],
+  ["eval", "h7Demo.target(1)"],
+  ["until", "h7Demo.state.progress===1"],
+  ["shot", "shots/mono-detail-exploded.png", "#stage", 4, [140, 0, 650, 850]],
+  ["lines", "shots/mono-lines-exploded.png", "#stage"],
+  ["eval", "(()=>{const r=document.querySelector('#parts').getBBox(),v=document.querySelector('#machine').viewBox.baseVal;return {viewBox:[v.x,v.y,v.width,v.height],bounds:[r.x,r.y,r.width,r.height],overflow:document.documentElement.scrollWidth>innerWidth}})()"]
+]

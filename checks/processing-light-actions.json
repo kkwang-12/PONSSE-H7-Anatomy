@@ -1,0 +1,74 @@
+[
+  [
+    "eval",
+    "h7Demo.processing.setMode('processing');h7Demo.processing.seek(4.7);void 0"
+  ],
+  [
+    "shot",
+    "shots/process-light-grip.png",
+    ".h7",
+    1
+  ],
+  [
+    "eval",
+    "h7Demo.processing.seek(14.1);void 0"
+  ],
+  [
+    "shot",
+    "shots/process-light-cutting.png",
+    ".h7",
+    1
+  ],
+  [
+    "shot",
+    "shots/process-light-cutting-close.png",
+    "#stage",
+    4,
+    [
+      300,
+      100,
+      430,
+      410
+    ]
+  ],
+  [
+    "eval",
+    "h7Demo.processing.seek(14.76);void 0"
+  ],
+  [
+    "shot",
+    "shots/process-light-through.png",
+    ".h7",
+    1
+  ],
+  [
+    "eval",
+    "h7Demo.processing.seek(16.1);void 0"
+  ],
+  [
+    "shot",
+    "shots/process-light-return.png",
+    ".h7",
+    1
+  ],
+  [
+    "eval",
+    "h7Demo.processing.seek(25.8);void 0"
+  ],
+  [
+    "shot",
+    "shots/process-light-second.png",
+    ".h7",
+    1
+  ],
+  [
+    "eval",
+    "h7Demo.processing.seek(31);void 0"
+  ],
+  [
+    "shot",
+    "shots/process-light-finished.png",
+    ".h7",
+    1
+  ]
+]

@@ -1,0 +1,17 @@
+[
+  ["eval", "h7Demo.target(0)"],
+  ["until", "h7Demo.state.progress===0"],
+  ["shot", "shots/mobile-assembled.png", "body", 1],
+  ["scroll", "#explode"],
+  ["click", "#explode"],
+  ["until", "h7Demo.state.progress===1", 10000],
+  ["shot", "shots/mobile-exploded.png", ".viewer", 1],
+  ["scroll", ".assembly-row[data-id='saw']"],
+  ["click", ".assembly-row[data-id='saw']"],
+  ["eval", "({selected:h7Demo.state.selected,horizontalOverflow:document.documentElement.scrollWidth>innerWidth,progress:h7Demo.state.progress})"],
+  ["scroll", "#clear-selection"],
+  ["click", "#clear-selection"],
+  ["key", "Home", "#stage"],
+  ["until", "h7Demo.state.progress===0", 10000],
+  ["eval", "({home:h7Demo.state.progress})"]
+]

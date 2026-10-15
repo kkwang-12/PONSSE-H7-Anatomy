@@ -1,0 +1,20 @@
+[
+ ["eval","h7Demo.ready"],
+ ["eval","(()=>{if(h7Demo.renderer.type!=='canvas'||h7Demo.renderer.opaqueCorners)throw new Error(JSON.stringify(h7Demo.renderer));return h7Demo.renderer})()"],
+ ["eval","h7Demo.state.progress=h7Demo.state.target=1;h7Demo.state.manualOpen=true;h7Demo.draw()"],
+ ["eval","(()=>{const rect=document.querySelector('#machine-canvas').getBoundingClientRect(),points={};for(let y=4;y<rect.height;y+=4){for(let x=4;x<rect.width;x+=4){const id=h7Demo.hitTest(rect.left+x,rect.top+y);if(id&&!points[id])points[id]=[rect.left+x,rect.top+y];}}for(const a of h7Demo.assemblies){if(!points[a.id])throw new Error('no visible hit area: '+a.id);const [clientX,clientY]=points[a.id];document.querySelector('#machine-canvas').dispatchEvent(new PointerEvent('pointermove',{pointerType:'mouse',clientX,clientY,bubbles:true}));if(h7Demo.state.selected!==a.id)throw new Error('wrong hover: '+a.id);}if(h7Demo.hitTest(rect.left+2,rect.top+2)!==null)throw new Error('transparent background catches pointer');return {hoverableAssemblies:Object.keys(points)}})()"],
+ ["eval","h7Demo.select(null)"],
+ ["eval","new Promise((resolve,reject)=>{const c=document.querySelector('#machine-canvas'),ctx=c.getContext('2d'),clear=ctx.clearRect;let paints=0;ctx.clearRect=function(...a){paints++;return clear.apply(this,a)};const r=c.getBoundingClientRect();for(let n=0;n<50;n++)c.dispatchEvent(new PointerEvent('pointermove',{pointerType:'mouse',clientX:r.left+2,clientY:r.top+2,bubbles:true}));requestAnimationFrame(()=>requestAnimationFrame(()=>{ctx.clearRect=clear;if(paints||h7Demo.state.frame){reject(new Error('settled hover restarted rendering'));return;}resolve({idlePointerMoves:50,repaints:paints});}));})"],
+ ["eval","h7Demo.state.manualOpen=false;h7Demo.state.inside=false;h7Demo.target(0)"],
+ ["until","h7Demo.state.progress===0",4000],
+ ["eval","new Promise((resolve,reject)=>{const start=performance.now();h7Demo.target(1);setTimeout(()=>{const stop=performance.now()+120;while(performance.now()<stop){}},200);const timer=setInterval(()=>{if(h7Demo.state.progress===1){clearInterval(timer);const ms=performance.now()-start;if(ms>2700)reject(new Error('slow animation clock: '+ms));else resolve({settleWithDroppedFrameMs:ms});}},20);})"],
+ ["eval","h7Demo.state.manualOpen=true;h7Demo.select('saw')"],
+ ["shot","shots/performance-final-selected-dark.png",".h7",1],
+ ["eval","h7Demo.state.manualOpen=false;h7Demo.target(0)"],
+ ["wait",100],
+ ["eval","h7Demo.target(1)"],
+ ["wait",100],
+ ["eval","h7Demo.select(null);h7Demo.target(0)"],
+ ["until","h7Demo.state.progress===0",4000],
+ ["shot","shots/performance-final-assembled-dark.png",".h7",1]
+]

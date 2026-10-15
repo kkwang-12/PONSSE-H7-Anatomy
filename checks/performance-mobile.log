@@ -1,0 +1,8 @@
+eval: {"type":"canvas","assemblies":11,"texturePixels":1012510,"density":2,"opaqueCorners":0,"prepareMs":2097.300000000745}
+shot shots/performance-mobile-light.png · readout "已组装 · 11 个总成"
+eval: {"scrollGestureIgnored":true}
+eval: undefined
+shot shots/performance-mobile-exploded-light.png · readout "已展开 · 11 个总成"
+eval: {"selected":"measure","overflow":false}
+eval: {"reducedMotion":true,"reset":0}
+console: clean

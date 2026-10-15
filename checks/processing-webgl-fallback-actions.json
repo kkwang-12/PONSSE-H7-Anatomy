@@ -1,0 +1,8 @@
+[
+ ["eval","h7Demo.ready"],
+ ["eval","h7Demo.processing.setMode('processing');void 0"],
+ ["eval","(()=>{if(!h7Demo.processing.getState().error||document.querySelector('#process-error').hidden)throw new Error('missing WebGL error message');h7Demo.processing.play();if(h7Demo.processing.getState().playing)throw new Error('failed renderer playing');return {unsupportedMessage:true}})()"],
+ ["eval","h7Demo.processing.setMode('structure');h7Demo.target(1);void 0"],
+ ["until","h7Demo.state.progress===1",5000],
+ ["eval","({structureAvailable:true})"]
+]

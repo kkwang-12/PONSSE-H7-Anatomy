@@ -1,0 +1,15 @@
+[
+  ["eval", "(()=>{if(h7Demo.state.progress!==0)throw new Error('initial state');return {theme:document.body.dataset.theme,initial:0}})()"],
+  ["shot", "shots/mono-mobile-light.png", "body", 1],
+  ["eval", "(()=>{const s=document.querySelector('#stage');s.dispatchEvent(new PointerEvent('pointerdown',{pointerType:'touch',pointerId:10,clientX:20,clientY:200,bubbles:true}));s.dispatchEvent(new PointerEvent('pointerup',{pointerType:'touch',pointerId:10,clientX:20,clientY:270,bubbles:true}));if(h7Demo.state.target!==0)throw new Error('scroll toggled pose');return {scrollGestureIgnored:true}})()"],
+  ["eval", "(()=>{const s=document.querySelector('#stage');s.dispatchEvent(new PointerEvent('pointerdown',{pointerType:'touch',pointerId:11,clientX:20,clientY:200,bubbles:true}));s.dispatchEvent(new PointerEvent('pointerup',{pointerType:'touch',pointerId:11,clientX:20,clientY:200,bubbles:true}));})()"],
+  ["until", "h7Demo.state.progress===1", 10000],
+  ["shot", "shots/mono-mobile-exploded-light.png", ".h7-plate", 1],
+  ["scroll", "[data-part='measure']"],
+  ["click", "[data-part='measure']"],
+  ["until", "h7Demo.state.selected==='measure'"],
+  ["eval", "(()=>{if(!document.querySelector('#caption').textContent.includes('沟槽'))throw new Error('measurement description');if(document.documentElement.scrollWidth>innerWidth)throw new Error('overflow');return {selected:h7Demo.state.selected,overflow:false}})()"],
+  ["key", "Escape", "[data-part='measure']"],
+  ["until", "h7Demo.state.progress===0", 10000],
+  ["eval", "({reducedMotion:matchMedia('(prefers-reduced-motion:reduce)').matches,reset:h7Demo.state.progress})"]
+]

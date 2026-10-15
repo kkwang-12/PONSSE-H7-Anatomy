@@ -1,0 +1,145 @@
+{
+  "environment": "Headless Microsoft Edge, 1280 x 1150 CSS px, scale 1; not a hardware guarantee",
+  "mesh": {
+    "sourceSolids": 846,
+    "groups": 96,
+    "triangles": 58840
+  },
+  "completion": {
+    "time": 31,
+    "playing": false,
+    "requested": false,
+    "ended": true,
+    "error": null,
+    "hidden": false,
+    "mode": "processing",
+    "visibility": [
+      {
+        "at": 2015.9000000022352,
+        "intersection": true,
+        "rect": {
+          "x": 175,
+          "y": 128.390625,
+          "width": 930,
+          "height": 688.875,
+          "top": 128.390625,
+          "right": 1105,
+          "bottom": 817.265625,
+          "left": 175
+        }
+      }
+    ],
+    "rect": {
+      "x": 175,
+      "y": 128.390625,
+      "width": 930,
+      "height": 688.875,
+      "top": 128.390625,
+      "right": 1105,
+      "bottom": 817.265625,
+      "left": 175
+    },
+    "steps": [
+      {
+        "step": 0,
+        "time": 0,
+        "cuts": 0
+      },
+      {
+        "step": 1,
+        "time": 3.0000999999999913,
+        "cuts": 0
+      },
+      {
+        "step": 2,
+        "time": 5.000099999999982,
+        "cuts": 0
+      },
+      {
+        "step": 3,
+        "time": 10.000400000000022,
+        "cuts": 0
+      },
+      {
+        "step": 4,
+        "time": 12.000800000000096,
+        "cuts": 0
+      },
+      {
+        "step": 5,
+        "time": 15.000400000000184,
+        "cuts": 1
+      },
+      {
+        "step": 6,
+        "time": 17.00030000000027,
+        "cuts": 1
+      },
+      {
+        "step": 7,
+        "time": 23.000400000000628,
+        "cuts": 1
+      },
+      {
+        "step": 8,
+        "time": 28.000800000000858,
+        "cuts": 2
+      }
+    ]
+  },
+  "observation": {
+    "elapsedSeconds": 35.02539999999851,
+    "observedFrames": 4292,
+    "observedFps": 122.53964265933243,
+    "steps": [
+      {
+        "step": 0,
+        "time": 0,
+        "cuts": 0
+      },
+      {
+        "step": 1,
+        "time": 3.0000999999999913,
+        "cuts": 0
+      },
+      {
+        "step": 2,
+        "time": 5.000099999999982,
+        "cuts": 0
+      },
+      {
+        "step": 3,
+        "time": 10.000400000000022,
+        "cuts": 0
+      },
+      {
+        "step": 4,
+        "time": 12.000800000000096,
+        "cuts": 0
+      },
+      {
+        "step": 5,
+        "time": 15.000400000000184,
+        "cuts": 1
+      },
+      {
+        "step": 6,
+        "time": 17.00030000000027,
+        "cuts": 1
+      },
+      {
+        "step": 7,
+        "time": 23.000400000000628,
+        "cuts": 1
+      },
+      {
+        "step": 8,
+        "time": 28.000800000000858,
+        "cuts": 2
+      }
+    ],
+    "ended": true,
+    "pieces": 2
+  },
+  "note": "RAF observation includes the idle period after completion; this is a functional baseline, not a GPU benchmark. Performance optimization deferred."
+}

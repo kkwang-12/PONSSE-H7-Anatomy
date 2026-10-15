@@ -1,0 +1,17 @@
+[
+ ["eval","h7Demo.processing.setMode('processing');({error:h7Demo.processing.getState().error,reduced:matchMedia('(prefers-reduced-motion:reduce)').matches})"],
+ ["shot","shots/process-mobile-initial.png",".h7-plate",1],
+ ["click","#process-play"],
+ ["eval","(()=>{const s=h7Demo.processing.getState();if(s.step!==1||s.playing||s.requestedPlaying)throw new Error('reduced motion must step');return {staticStep:s.step}})()"],
+ ["eval","h7Demo.processing.seek(5);void 0"],
+ ["eval","(()=>{const s=h7Demo.processing.getState(),rig=H7ProcessingRig.processingPoses(CONFIG.processing.joints,s),p=H7ProcessingRig.rigPoint(rig.local.feedR,[78,114,170]),[clientX,clientY]=h7Demo.processing.project(p),c=document.querySelector('#processing-canvas');c.dispatchEvent(new PointerEvent('pointerdown',{pointerType:'touch',pointerId:9,clientX,clientY,bubbles:true}));c.dispatchEvent(new PointerEvent('pointerup',{pointerType:'touch',pointerId:9,clientX,clientY,bubbles:true}));if(h7Demo.processing.getState().selected!=='feedR')throw new Error('touch picking');return {touch:'feedR'}})()"],
+ ["eval","(()=>{const s=document.querySelector('#stage'),t=h7Demo.processing.getState().time;s.dispatchEvent(new PointerEvent('pointerdown',{pointerType:'touch',pointerId:10,clientX:20,clientY:200,bubbles:true}));s.dispatchEvent(new PointerEvent('pointerup',{pointerType:'touch',pointerId:10,clientX:20,clientY:280,bubbles:true}));if(h7Demo.processing.getState().time!==t||h7Demo.state.target!==0)throw new Error('scroll altered pose');return {scrollIgnored:true}})()"],
+ ["eval","h7Demo.processing.seekStep(4);void 0"],
+ ["shot","shots/process-mobile-cut.png",".h7",1],
+ ["eval","h7Demo.processing.seekStep(8);void 0"],
+ ["shot","shots/process-mobile-finished.png",".h7",1],
+ ["eval","(()=>{if(document.documentElement.scrollWidth>innerWidth)throw new Error('mobile overflow');return {steps:document.querySelectorAll('[data-step]').length,overflow:false}})()"],
+ ["eval","h7Demo.processing.setMode('structure');h7Demo.target(1);void 0"],
+ ["until","h7Demo.state.progress===1",5000],
+ ["eval","(()=>{if(h7Demo.processing.getState().playing)throw new Error('processing did not stop');return {structureRestored:true}})()"]
+]

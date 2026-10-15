@@ -1,0 +1,27 @@
+eval: {"defaultMode":"structure","structureRenderer":"canvas"}
+eval: {"sourceSolids":846,"groups":86,"triangles":59128,"renderer":"WebGL2"}
+eval: {"pausedAt":0.45970000000223543}
+eval: undefined
+eval: {"halfRateAdvance":0.25694999999999946}
+eval: {"step":7,"cuts":1,"cutBranches":9}
+eval: undefined
+eval: {"picked":"feedR"}
+eval: {"hoverOnly":true}
+eval: undefined
+eval: undefined
+eval: undefined
+eval: {"finished":true,"pieces":2}
+eval: {"replay":true}
+eval: undefined
+eval: undefined
+shot shots/process-structure-regression.png · readout "已展开 · 11 个总成"
+eval: {"modeRestored":true,"time":8.767999999999997}
+eval: undefined
+eval: undefined
+eval: undefined
+eval: undefined
+eval: undefined
+eval: {"offscreenPaused":true}
+eval: {"resumed":true}
+eval: {"steps":9,"overflow":false}
+console: clean
